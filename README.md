@@ -30,7 +30,7 @@ All of its features are working now, although the Dupont connections still cause
 
 Despite how different V2 looks, its primary change is the rails and deck: slim, arched rails with exterior mounting points, followed by a deck designed after the rails had their final fit. The other huge improvement is accessibility for repairs, and that will continue into V3.
 
-The next major system upgrade will be the mast. Now that I have it working, I know how I want to improve it next.
+The next major system upgrade will be the mast. Now that I have it working, I know how I want to improve it next. The [masthead revision checklist](docs/PROJECT.md#masthead-revisions-v1) covers those changes, including custom wiring.
 
 ## Hardware and software
 

@@ -26,6 +26,10 @@
 | [Shield emblems v2](cad/shield-emblems/README.md) | Stronger emblems and support cradle; supersedes shell emblem mesh |
 | [M2 insert fit coupon](cad/insert-fit-coupon/README.md) | 2.8 mm bore accepted in source notes |
 
+## Planned revisions
+
+[Masthead revisions v1](../docs/PROJECT.md#masthead-revisions-v1)
+
 ## Assembly
 
 <!-- WRITE: Your assembly notes. -->

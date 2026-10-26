@@ -33,3 +33,15 @@ All of its features are working now, although the Dupont connections still cause
 ## What's next
 
 The next major system upgrade will be the mast. Now that I have it working, I know how I want to improve it next.
+
+### Masthead revisions v1
+
+- [ ] Additional access in the mast.
+- [ ] More belt tension. I modified v1 with a Dremel.
+- [ ] Deeper indents for the servo horns.
+- [ ] Stronger legs in the screen holder.
+- [ ] Fix the fit of the SD-card-shaped lock. Bed issues kept it from fitting.
+- [ ] A taller mast and better head balance. The camera side is longer and heavier.
+- [ ] Move the screen out or modify the neck so it doesn't limit tilt so much.
+- [ ] A MUCH better locking mechanism for the shaft/head.
+- [ ] Custom wiring.
