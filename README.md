@@ -4,7 +4,7 @@
 
 Gladiator started with me looking for a way to spend 50 bucks of Father's Day money. I found DFRobot's Black Gladiator — a bare frame, track, and motor assembly — along with a laser sensing board. I knew I'd have a lot of fun experimenting with it, but I had no particular direction. That's where the corny name came from.
 
-[Project](docs/PROJECT.md) Â· [Build log](docs/BUILD_LOG.md) Â· [Hardware & CAD](hardware/README.md) Â· [Firmware](firmware/README.md) Â· [Photos](photos/README.md)
+[Project](docs/PROJECT.md) · [Build log](docs/BUILD_LOG.md) · [Hardware & CAD](hardware/README.md) · [Firmware](firmware/README.md) · [Photos](photos/README.md)
 
 ## The project
 
@@ -25,6 +25,8 @@ Getting there meant learning JST connectors and headers, building an expandable 
 <!-- WRITE: The features you want to highlight. -->
 
 ## Current status
+
+All of its features are working now, although the Dupont connections still cause some reliability issues.
 
 Despite how different V2 looks, its primary change is the rails and deck: slim, arched rails with exterior mounting points, followed by a deck designed after the rails had their final fit. The other huge improvement is accessibility for repairs, and that will continue into V3.
 

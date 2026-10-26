@@ -26,6 +26,10 @@ That took several redesigns. I eventually ended up with fairly slim, arched rail
 
 Despite how different V2 looks, the rails and deck are its primary change. The other huge improvement is accessibility for repairs, and that will continue into V3.
 
+## Where it is now
+
+All of its features are working now, although the Dupont connections still cause some reliability issues.
+
 ## What's next
 
 The next major system upgrade will be the mast. Now that I have it working, I know how I want to improve it next.
