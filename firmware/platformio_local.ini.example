@@ -1,0 +1,4 @@
+; Local-only PlatformIO overrides (gitignored). Copy platformio_local.ini.example.
+[env:gladiator_ota]
+upload_flags =
+	--auth=change-me-ota

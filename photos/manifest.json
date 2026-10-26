@@ -1,0 +1,290 @@
+[
+  {
+    "album": "01-chassis-v1",
+    "title": "Chassis v1",
+    "path": "photos/01-chassis-v1/20261005_125814.jpg",
+    "thumbnail": "photos/thumbnails/01-chassis-v1/20261005_125814.jpg",
+    "source_filename": "20261005_125814.jpg",
+    "date": "2026-10-05",
+    "sha256": "5581dbef91b6777d8955c0cab8f9309520b62ff11e73113a8051e2bd80a79a7f"
+  },
+  {
+    "album": "01-chassis-v1",
+    "title": "Chassis v1",
+    "path": "photos/01-chassis-v1/20261005_125831.jpg",
+    "thumbnail": "photos/thumbnails/01-chassis-v1/20261005_125831.jpg",
+    "source_filename": "20261005_125831.jpg",
+    "date": "2026-10-05",
+    "sha256": "941c1fa11b65a196a31ce59074450117e4ea6b85812d180ec17d35b9de6ae46c"
+  },
+  {
+    "album": "01-chassis-v1",
+    "title": "Chassis v1",
+    "path": "photos/01-chassis-v1/20261005_125851.jpg",
+    "thumbnail": "photos/thumbnails/01-chassis-v1/20261005_125851.jpg",
+    "source_filename": "20261005_125851.jpg",
+    "date": "2026-10-05",
+    "sha256": "b0bc708d8532f2d10092956a379043323ee3d9f38f154312e7ae541b71b3fd77"
+  },
+  {
+    "album": "01-chassis-v1",
+    "title": "Chassis v1",
+    "path": "photos/01-chassis-v1/20261005_125855.jpg",
+    "thumbnail": "photos/thumbnails/01-chassis-v1/20261005_125855.jpg",
+    "source_filename": "20261005_125855.jpg",
+    "date": "2026-10-05",
+    "sha256": "06977c0f6b1c261b50ebcbe0a200d2bb2375255ae2d862b2425babecc6a2192f"
+  },
+  {
+    "album": "01-chassis-v1",
+    "title": "Chassis v1",
+    "path": "photos/01-chassis-v1/20261005_125901.jpg",
+    "thumbnail": "photos/thumbnails/01-chassis-v1/20261005_125901.jpg",
+    "source_filename": "20261005_125901.jpg",
+    "date": "2026-10-05",
+    "sha256": "7ce8bc2bab90c0b569fd3672e862bda54c6aadfb0d626e4ee99e9037f37ce270"
+  },
+  {
+    "album": "01-chassis-v1",
+    "title": "Chassis v1",
+    "path": "photos/01-chassis-v1/20261005_125914.jpg",
+    "thumbnail": "photos/thumbnails/01-chassis-v1/20261005_125914.jpg",
+    "source_filename": "20261005_125914.jpg",
+    "date": "2026-10-05",
+    "sha256": "55b59995fe968e1361dac20cf8abdb54bee009f2b0c1749600324409b491db26"
+  },
+  {
+    "album": "02-chassis-assembly",
+    "title": "Chassis assembly",
+    "path": "photos/02-chassis-assembly/20261009_124805.jpg",
+    "thumbnail": "photos/thumbnails/02-chassis-assembly/20261009_124805.jpg",
+    "source_filename": "20261009_124805.jpg",
+    "date": "2026-10-09",
+    "sha256": "8c42e81f9a4f7f2520e4c34e76eb74a0564d25f2a05fddb8266a2cf0c9e0f0be"
+  },
+  {
+    "album": "02-chassis-assembly",
+    "title": "Chassis assembly",
+    "path": "photos/02-chassis-assembly/20261009_124810.jpg",
+    "thumbnail": "photos/thumbnails/02-chassis-assembly/20261009_124810.jpg",
+    "source_filename": "20261009_124810.jpg",
+    "date": "2026-10-09",
+    "sha256": "87339f8f5d5395884eb8f5235924e7d39baf5fec51b21622ea5427a10c2b33cf"
+  },
+  {
+    "album": "02-chassis-assembly",
+    "title": "Chassis assembly",
+    "path": "photos/02-chassis-assembly/20261009_124815.jpg",
+    "thumbnail": "photos/thumbnails/02-chassis-assembly/20261009_124815.jpg",
+    "source_filename": "20261009_124815.jpg",
+    "date": "2026-10-09",
+    "sha256": "886a5f9e5f07ae57ccc482d5e6c002a9e6851fade6a27a456520a8d1c23bd1c8"
+  },
+  {
+    "album": "02-chassis-assembly",
+    "title": "Chassis assembly",
+    "path": "photos/02-chassis-assembly/20261009_124819.jpg",
+    "thumbnail": "photos/thumbnails/02-chassis-assembly/20261009_124819.jpg",
+    "source_filename": "20261009_124819.jpg",
+    "date": "2026-10-09",
+    "sha256": "70dcc6f55e506c71c715eac70708186cee4e70609006c6d1b8d197c97fc943b8"
+  },
+  {
+    "album": "02-chassis-assembly",
+    "title": "Chassis assembly",
+    "path": "photos/02-chassis-assembly/20261009_124826.jpg",
+    "thumbnail": "photos/thumbnails/02-chassis-assembly/20261009_124826.jpg",
+    "source_filename": "20261009_124826.jpg",
+    "date": "2026-10-09",
+    "sha256": "13b944aedfeae84b9cbc94281bf885784572f1d2b5b1469f17f57372785f4d70"
+  },
+  {
+    "album": "02-chassis-assembly",
+    "title": "Chassis assembly",
+    "path": "photos/02-chassis-assembly/20261009_124829.jpg",
+    "thumbnail": "photos/thumbnails/02-chassis-assembly/20261009_124829.jpg",
+    "source_filename": "20261009_124829.jpg",
+    "date": "2026-10-09",
+    "sha256": "5e2205d2f648d5d3ecada3d88d7104a1d4cee78435254b40fe0fb12dcb2a1d27"
+  },
+  {
+    "album": "03-robot-v1",
+    "title": "Robot v1",
+    "path": "photos/03-robot-v1/20261014_103027.jpg",
+    "thumbnail": "photos/thumbnails/03-robot-v1/20261014_103027.jpg",
+    "source_filename": "20261014_103027.jpg",
+    "date": "2026-10-14",
+    "sha256": "9b997845b4ffcb0f037894797f8b1d237ae6b6212509a84d6e52cb27e396d956"
+  },
+  {
+    "album": "03-robot-v1",
+    "title": "Robot v1",
+    "path": "photos/03-robot-v1/20261014_103030.jpg",
+    "thumbnail": "photos/thumbnails/03-robot-v1/20261014_103030.jpg",
+    "source_filename": "20261014_103030.jpg",
+    "date": "2026-10-14",
+    "sha256": "ca321b334d8e3edd02a33fe137fc119be0190ea0d641269f411c39d460bfb316"
+  },
+  {
+    "album": "03-robot-v1",
+    "title": "Robot v1",
+    "path": "photos/03-robot-v1/20261014_114522.jpg",
+    "thumbnail": "photos/thumbnails/03-robot-v1/20261014_114522.jpg",
+    "source_filename": "20261014_114522.jpg",
+    "date": "2026-10-14",
+    "sha256": "356460ff4e62091b9b69f3193826ac99d338761f02c2b79880e1cd3d1383328a"
+  },
+  {
+    "album": "03-robot-v1",
+    "title": "Robot v1",
+    "path": "photos/03-robot-v1/20261014_114531.jpg",
+    "thumbnail": "photos/thumbnails/03-robot-v1/20261014_114531.jpg",
+    "source_filename": "20261014_114531.jpg",
+    "date": "2026-10-14",
+    "sha256": "b437282b0c6301fad2e8c652612dc790c470d638128cb585db7d27efe6dc8b32"
+  },
+  {
+    "album": "03-robot-v1",
+    "title": "Robot v1",
+    "path": "photos/03-robot-v1/20261014_114604.jpg",
+    "thumbnail": "photos/thumbnails/03-robot-v1/20261014_114604.jpg",
+    "source_filename": "20261014_114604.jpg",
+    "date": "2026-10-14",
+    "sha256": "b5f43efb02d8bd44376c82986745c274c5bc039d3c88cf7c77d9549e725d51ca"
+  },
+  {
+    "album": "03-robot-v1",
+    "title": "Robot v1",
+    "path": "photos/03-robot-v1/20261014_160522.jpg",
+    "thumbnail": "photos/thumbnails/03-robot-v1/20261014_160522.jpg",
+    "source_filename": "20261014_160522.jpg",
+    "date": "2026-10-14",
+    "sha256": "297b414cd3c09d743c6d381196676a4a070a7560bdfb5e92a872f4481b50f7ff"
+  },
+  {
+    "album": "03-robot-v1",
+    "title": "Robot v1",
+    "path": "photos/03-robot-v1/20261014_160528.jpg",
+    "thumbnail": "photos/thumbnails/03-robot-v1/20261014_160528.jpg",
+    "source_filename": "20261014_160528.jpg",
+    "date": "2026-10-14",
+    "sha256": "d735fa14e6b7cbf741b0b4b611488f5350c0ca7f811b198835d1057181ca7976"
+  },
+  {
+    "album": "03-robot-v1",
+    "title": "Robot v1",
+    "path": "photos/03-robot-v1/20261014_160530.jpg",
+    "thumbnail": "photos/thumbnails/03-robot-v1/20261014_160530.jpg",
+    "source_filename": "20261014_160530.jpg",
+    "date": "2026-10-14",
+    "sha256": "0bbe7e48dfe196426fc172001059c11f15c107317435f53f705ca4b2ff57a101"
+  },
+  {
+    "album": "04-enclosure-details",
+    "title": "Enclosure details",
+    "path": "photos/04-enclosure-details/20261021_211342.jpg",
+    "thumbnail": "photos/thumbnails/04-enclosure-details/20261021_211342.jpg",
+    "source_filename": "20261021_211342.jpg",
+    "date": "2026-10-21",
+    "sha256": "0e02ee1ac7246c4cc58fa814cb804587f590591a5ecf07b68de0c60195ce4cc8"
+  },
+  {
+    "album": "04-enclosure-details",
+    "title": "Enclosure details",
+    "path": "photos/04-enclosure-details/20261021_211346.jpg",
+    "thumbnail": "photos/thumbnails/04-enclosure-details/20261021_211346.jpg",
+    "source_filename": "20261021_211346.jpg",
+    "date": "2026-10-21",
+    "sha256": "b1c9381ce603d4fdb403d8b391b542601be673cbcfffd138d863b8ffa1d68c85"
+  },
+  {
+    "album": "04-enclosure-details",
+    "title": "Enclosure details",
+    "path": "photos/04-enclosure-details/20261022_091821.jpg",
+    "thumbnail": "photos/thumbnails/04-enclosure-details/20261022_091821.jpg",
+    "source_filename": "20261022_091821.jpg",
+    "date": "2026-10-22",
+    "sha256": "25e0f01f8180b6a12eaeb6b5d09a4644e7480d063116a6f5b2ef153d6d53628b"
+  },
+  {
+    "album": "06-event",
+    "title": "Event",
+    "path": "photos/06-event/20261024_125802.jpg",
+    "thumbnail": "photos/thumbnails/06-event/20261024_125802.jpg",
+    "source_filename": "20261024_125802.jpg",
+    "date": "2026-10-24",
+    "sha256": "6ab55551c7580c81e0f9115906faf51941f1576d006d70ad0ad7403f80c157a3"
+  },
+  {
+    "album": "06-event",
+    "title": "Event",
+    "path": "photos/06-event/20261024_125804.jpg",
+    "thumbnail": "photos/thumbnails/06-event/20261024_125804.jpg",
+    "source_filename": "20261024_125804.jpg",
+    "date": "2026-10-24",
+    "sha256": "e0123147d0d4083ec4431e8c828c1cb55f5cd11a6e3ce93ce1685b15ed1cd044"
+  },
+  {
+    "album": "06-event",
+    "title": "Event",
+    "path": "photos/06-event/20261024_134533.jpg",
+    "thumbnail": "photos/thumbnails/06-event/20261024_134533.jpg",
+    "source_filename": "20261024_134533.jpg",
+    "date": "2026-10-24",
+    "sha256": "acc610ad0f86e87808d0aa97acbb73cd4230d38892f04a47538822859c723230"
+  },
+  {
+    "album": "06-event",
+    "title": "Event",
+    "path": "photos/06-event/20261024_134534.jpg",
+    "thumbnail": "photos/thumbnails/06-event/20261024_134534.jpg",
+    "source_filename": "20261024_134534.jpg",
+    "date": "2026-10-24",
+    "sha256": "fa221675e3b2982c7d04360e62ad108b66b2e488f75d8d1c777c035972519a74"
+  },
+  {
+    "album": "06-event",
+    "title": "Event",
+    "path": "photos/06-event/20261024_134554.jpg",
+    "thumbnail": "photos/thumbnails/06-event/20261024_134554.jpg",
+    "source_filename": "20261024_134554.jpg",
+    "date": "2026-10-24",
+    "sha256": "231cc548297a218f1ac738207f0b777e6dc87aa37bf6b3718fd6628de2c78c1f"
+  },
+  {
+    "album": "06-event",
+    "title": "Event",
+    "path": "photos/06-event/20261024_134602.jpg",
+    "thumbnail": "photos/thumbnails/06-event/20261024_134602.jpg",
+    "source_filename": "20261024_134602.jpg",
+    "date": "2026-10-24",
+    "sha256": "cdcaba09a1464fc1bf421ba349663aaa8f71572e16fd4cb804f02e4de9322f25"
+  },
+  {
+    "album": "06-event",
+    "title": "Event",
+    "path": "photos/06-event/20261024_141302.jpg",
+    "thumbnail": "photos/thumbnails/06-event/20261024_141302.jpg",
+    "source_filename": "20261024_141302.jpg",
+    "date": "2026-10-24",
+    "sha256": "b31cfe5f8624daa86fc9617c1de64a6b7292741bff814f5b876a25ccac1589ad"
+  },
+  {
+    "album": "05-robot-v2",
+    "title": "Robot v2",
+    "path": "photos/05-robot-v2/20261026_121424.jpg",
+    "thumbnail": "photos/thumbnails/05-robot-v2/20261026_121424.jpg",
+    "source_filename": "20261026_121424.jpg",
+    "date": "2026-10-26",
+    "sha256": "99e863a018fa3d1d172ff061bba2a3e2dffbbbc19818bba171743b2fa563eb46"
+  },
+  {
+    "album": "05-robot-v2",
+    "title": "Robot v2",
+    "path": "photos/05-robot-v2/20261026_121446.jpg",
+    "thumbnail": "photos/thumbnails/05-robot-v2/20261026_121446.jpg",
+    "source_filename": "20261026_121446.jpg",
+    "date": "2026-10-26",
+    "sha256": "513b651283a1b12e11d7cce4fcad92a3746e0d25c29328159b8e4aee92ad1c1b"
+  }
+]

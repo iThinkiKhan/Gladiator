@@ -1,0 +1,47 @@
+name: Verify project
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  offline-checks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: python -m pip install -r requirements-dev.txt
+      - run: python tools/validate_repo.py
+      - run: python tools/run_host_tests.py
+      - run: node firmware/tools/booth/test.cjs
+      - run: node firmware/tools/booth/test_settings.cjs
+
+  firmware-build:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - project: firmware
+            environment: gladiator_s3
+          - project: firmware/gateway
+            environment: gladiator_c6
+          - project: firmware/cam
+            environment: gladiator_cam
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install platformio==6.1.19
+      - run: python firmware/tools/configure.py
+      - run: pio run -d ${{ matrix.project }} -e ${{ matrix.environment }}

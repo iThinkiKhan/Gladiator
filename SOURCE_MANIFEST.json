@@ -1,0 +1,1674 @@
+{
+  "prepared": "2026-10-26",
+  "cad_repository": "iThinkiKhan/gladiator-cad",
+  "cad_commit": "db25f68d589b59520871f2c27f7898625261f611",
+  "firmware_origin": "canonical local Gladiator project; public examples substituted",
+  "files": [
+    {
+      "path": "firmware/src/bench/CydMatrixBench.cpp",
+      "origin": "canonical-firmware",
+      "source": "src/bench/CydMatrixBench.cpp",
+      "source_sha256": "834efab8a9586d067a58a210777f26d79615546b1f43328b1fad88a2d61a962b",
+      "sha256": "834efab8a9586d067a58a210777f26d79615546b1f43328b1fad88a2d61a962b"
+    },
+    {
+      "path": "firmware/src/bench/CydMatrixView.cpp",
+      "origin": "canonical-firmware",
+      "source": "src/bench/CydMatrixView.cpp",
+      "source_sha256": "e7223724f76d845a78bfaf5774f556f1155e7581be58460f5048c4944311816b",
+      "sha256": "e7223724f76d845a78bfaf5774f556f1155e7581be58460f5048c4944311816b"
+    },
+    {
+      "path": "firmware/src/bench/CydMatrixView.h",
+      "origin": "canonical-firmware",
+      "source": "src/bench/CydMatrixView.h",
+      "source_sha256": "903c8dcffb062d407611d5848a5ad4c5ee9abf0dc1cfbb080b5410acdcd2c8e5",
+      "sha256": "903c8dcffb062d407611d5848a5ad4c5ee9abf0dc1cfbb080b5410acdcd2c8e5"
+    },
+    {
+      "path": "firmware/src/blackbox/BlackBox.cpp",
+      "origin": "canonical-firmware",
+      "source": "src/blackbox/BlackBox.cpp",
+      "source_sha256": "f0d1888724e1e48e78a83fbd313f024373f407e45858fcc07b6653f9fedbd588",
+      "sha256": "f0d1888724e1e48e78a83fbd313f024373f407e45858fcc07b6653f9fedbd588"
+    },
+    {
+      "path": "firmware/src/blackbox/BlackBox.h",
+      "origin": "canonical-firmware",
+      "source": "src/blackbox/BlackBox.h",
+      "source_sha256": "3ea062c4f36c5d42386cc07d69082ad5faf144d50a57f3eedc8db6abbe5a4349",
+      "sha256": "3ea062c4f36c5d42386cc07d69082ad5faf144d50a57f3eedc8db6abbe5a4349"
+    },
+    {
+      "path": "firmware/src/BoardConfig.h",
+      "origin": "canonical-firmware",
+      "source": "src/BoardConfig.h",
+      "source_sha256": "8b318652e1461807fadb55876f194b93f7fa3ff2275fc87afa2722ef59ca869b",
+      "sha256": "71a0d36859884a6123c953340058adc45f9cc501a7d1155e2cd401a624ffaaa3"
+    },
+    {
+      "path": "firmware/src/drive/StraightTrim.h",
+      "origin": "canonical-firmware",
+      "source": "src/drive/StraightTrim.h",
+      "source_sha256": "6c8272f341d6e10437c7906e1fd72f9fe9eb49cce6158109029d6545684db7f1",
+      "sha256": "6c8272f341d6e10437c7906e1fd72f9fe9eb49cce6158109029d6545684db7f1"
+    },
+    {
+      "path": "firmware/src/DrivePower.h",
+      "origin": "canonical-firmware",
+      "source": "src/DrivePower.h",
+      "source_sha256": "5c8f5d49ac8cc467ec51e7b96a71082fb236a2b1ac7fdaa9433e8dee4337a233",
+      "sha256": "3a6aedcd1fc457f2db288e867fc68f170c336475fc56959913d73173180eb148"
+    },
+    {
+      "path": "firmware/src/gateway/ControlJson.h",
+      "origin": "canonical-firmware",
+      "source": "src/gateway/ControlJson.h",
+      "source_sha256": "a1ca8fbe8fadb1a4cb83d9a8e9529c0f2c9e89125e2032cbf2c9409e4225b5dc",
+      "sha256": "a1ca8fbe8fadb1a4cb83d9a8e9529c0f2c9e89125e2032cbf2c9409e4225b5dc"
+    },
+    {
+      "path": "firmware/src/gateway/RobotLink.cpp",
+      "origin": "canonical-firmware",
+      "source": "src/gateway/RobotLink.cpp",
+      "source_sha256": "a812b1896e2f933a4ddd4c0a035d7a7dbffa463ba017d2b3a450d1cf403094fb",
+      "sha256": "a812b1896e2f933a4ddd4c0a035d7a7dbffa463ba017d2b3a450d1cf403094fb"
+    },
+    {
+      "path": "firmware/src/gateway/RobotLink.h",
+      "origin": "canonical-firmware",
+      "source": "src/gateway/RobotLink.h",
+      "source_sha256": "9af29573e01cf66a29983a175f6796a586c70c399e18a85086ae345a4cb7aaa1",
+      "sha256": "c6d60edfb38e256aaf1b81f54e04902b6d3013de8e34af941794f22ff3e89e5e"
+    },
+    {
+      "path": "firmware/src/main.cpp",
+      "origin": "canonical-firmware",
+      "source": "src/main.cpp",
+      "source_sha256": "a513764bac8a7930282764391fa375fce051b6b7a69aeee61bd3b85f8887ce7c",
+      "sha256": "a513764bac8a7930282764391fa375fce051b6b7a69aeee61bd3b85f8887ce7c"
+    },
+    {
+      "path": "firmware/src/mast/MastApplication.h",
+      "origin": "canonical-firmware",
+      "source": "src/mast/MastApplication.h",
+      "source_sha256": "20c53cd069c267e39ea7d7ec4bcec31fe3ebd24f86ddde1066ce01e5a554bec3",
+      "sha256": "b6a834757f50fb6935778929ea9aa8f88ee2324c98490891eaf7262df34b1336"
+    },
+    {
+      "path": "firmware/src/mast/MastHardware.h",
+      "origin": "canonical-firmware",
+      "source": "src/mast/MastHardware.h",
+      "source_sha256": "9a92185bea57d9b2a8f1f358273241e979af18b26a6d50eee254f211507710df",
+      "sha256": "c041bc75b27776e4481fb9f6e1d836d4df0098319c3cd46ba967970fddc6d49a"
+    },
+    {
+      "path": "firmware/src/mast/MastProfiles.h",
+      "origin": "canonical-firmware",
+      "source": "src/mast/MastProfiles.h",
+      "source_sha256": "9504a12918b7bffd6b64b7ff057f32b74db66db41f53ec4402d11fcc83b87d90",
+      "sha256": "2a8cc3c82482661858187de0191c7e289fdcc947d0b232d01a4ef8bdca3434d9"
+    },
+    {
+      "path": "firmware/src/Orientation.h",
+      "origin": "canonical-firmware",
+      "source": "src/Orientation.h",
+      "source_sha256": "9c2af6df860fb1518750f210ef322c35e3d447719a74e027160ec87073c76e11",
+      "sha256": "dda11471573b08faace8d92c5e29a2d82fe39cbcf36119424349077f92af8bd2"
+    },
+    {
+      "path": "firmware/src/sensors/BNO085Sensor.cpp",
+      "origin": "canonical-firmware",
+      "source": "src/sensors/BNO085Sensor.cpp",
+      "source_sha256": "302a4ee70024548501438692cfa6b7358877e0adcd2dc1a99da5e5ce497816eb",
+      "sha256": "93c6a5c1f024a4bf872ad6690274128ab7a06e4082ebf26f192a1ec3b79c97b4"
+    },
+    {
+      "path": "firmware/src/sensors/BNO085Sensor.h",
+      "origin": "canonical-firmware",
+      "source": "src/sensors/BNO085Sensor.h",
+      "source_sha256": "9cbaeb8fd1ea9c0319aa3febf601596934f3f80f7a0bf033306d88164ea49257",
+      "sha256": "796705fd40f0cbc009933df871fec70e039d5ebe479100d3babb439dea4e1cc0"
+    },
+    {
+      "path": "firmware/src/sensors/I2CBus.h",
+      "origin": "canonical-firmware",
+      "source": "src/sensors/I2CBus.h",
+      "source_sha256": "94058ff0193c3f320f392d83ba55af9ee83f94766e023cf8011b05623c44ac65",
+      "sha256": "94058ff0193c3f320f392d83ba55af9ee83f94766e023cf8011b05623c44ac65"
+    },
+    {
+      "path": "firmware/src/sensors/INA226Sensor.cpp",
+      "origin": "canonical-firmware",
+      "source": "src/sensors/INA226Sensor.cpp",
+      "source_sha256": "6c123bb9dd16834c5fe1e20a6483b86f88177574baffdced3bf61fb884d664c3",
+      "sha256": "6c123bb9dd16834c5fe1e20a6483b86f88177574baffdced3bf61fb884d664c3"
+    },
+    {
+      "path": "firmware/src/sensors/INA226Sensor.h",
+      "origin": "canonical-firmware",
+      "source": "src/sensors/INA226Sensor.h",
+      "source_sha256": "430aca101c8ccaf32dbb4238954fb70f6bbd29486f2132a3c2007d8a46191363",
+      "sha256": "430aca101c8ccaf32dbb4238954fb70f6bbd29486f2132a3c2007d8a46191363"
+    },
+    {
+      "path": "firmware/src/sensors/MatrixLidarSensor.cpp",
+      "origin": "canonical-firmware",
+      "source": "src/sensors/MatrixLidarSensor.cpp",
+      "source_sha256": "e60f6c56a05a3aec04f0b9758bcd61b0eb2defb14701120ebe9330e25a8a9dff",
+      "sha256": "e60f6c56a05a3aec04f0b9758bcd61b0eb2defb14701120ebe9330e25a8a9dff"
+    },
+    {
+      "path": "firmware/src/sensors/MatrixLidarSensor.h",
+      "origin": "canonical-firmware",
+      "source": "src/sensors/MatrixLidarSensor.h",
+      "source_sha256": "be2bda2bf8433f2b455115df6b4e7d2bf915cbe34363c79669ea7a6452e5a49c",
+      "sha256": "be2bda2bf8433f2b455115df6b4e7d2bf915cbe34363c79669ea7a6452e5a49c"
+    },
+    {
+      "path": "firmware/src/sensors/PresenceSensor.cpp",
+      "origin": "canonical-firmware",
+      "source": "src/sensors/PresenceSensor.cpp",
+      "source_sha256": "f46f1894d86db8f6bac70f7d431fb8b301d36009d767926b74b95624552edbb8",
+      "sha256": "f46f1894d86db8f6bac70f7d431fb8b301d36009d767926b74b95624552edbb8"
+    },
+    {
+      "path": "firmware/src/sensors/PresenceSensor.h",
+      "origin": "canonical-firmware",
+      "source": "src/sensors/PresenceSensor.h",
+      "source_sha256": "d3509209b8d366a5a591a8366216b8a5083d475a51223d302d3ed8b09bc99f06",
+      "sha256": "d3509209b8d366a5a591a8366216b8a5083d475a51223d302d3ed8b09bc99f06"
+    },
+    {
+      "path": "firmware/src/sensors/SensorData.h",
+      "origin": "canonical-firmware",
+      "source": "src/sensors/SensorData.h",
+      "source_sha256": "3a51f79e9ab1db1807b780b9e9ef969de049685d9ad5348c2eede11b68cd8e9c",
+      "sha256": "09c86c7c29678ddb329b0c61593867ae113901f0a3d6b0bfc0a611dda4d841e3"
+    },
+    {
+      "path": "firmware/src/sensors/SensorHealth.h",
+      "origin": "canonical-firmware",
+      "source": "src/sensors/SensorHealth.h",
+      "source_sha256": "9debe5ed5fd8642868af9c4345b2a728be366a9104ecbeb3bcaab61ca01ff375",
+      "sha256": "9debe5ed5fd8642868af9c4345b2a728be366a9104ecbeb3bcaab61ca01ff375"
+    },
+    {
+      "path": "firmware/src/sensors/SensorJson.cpp",
+      "origin": "canonical-firmware",
+      "source": "src/sensors/SensorJson.cpp",
+      "source_sha256": "a08af8d319e342884df733ead0db8e4dd4f3151ea134fa0017263fe820b5f050",
+      "sha256": "362b5936231a2d3d09bd3f4e4c81ad4cb67eaa5d9dd07f20b84f94d3d717bbea"
+    },
+    {
+      "path": "firmware/src/sensors/SensorManager.cpp",
+      "origin": "canonical-firmware",
+      "source": "src/sensors/SensorManager.cpp",
+      "source_sha256": "371bb7de4b528a8578d6906786c07aa6d484ddc0a14316c7cc147db26ca79f08",
+      "sha256": "371bb7de4b528a8578d6906786c07aa6d484ddc0a14316c7cc147db26ca79f08"
+    },
+    {
+      "path": "firmware/src/sensors/SensorManager.h",
+      "origin": "canonical-firmware",
+      "source": "src/sensors/SensorManager.h",
+      "source_sha256": "68e1a1b50ad9d68d55ac0134e67819fa84d3917c9486f45be3736d08890b0a68",
+      "sha256": "68e1a1b50ad9d68d55ac0134e67819fa84d3917c9486f45be3736d08890b0a68"
+    },
+    {
+      "path": "firmware/src/sensors/SensorProgress.h",
+      "origin": "canonical-firmware",
+      "source": "src/sensors/SensorProgress.h",
+      "source_sha256": "d5f750577314b63e124de1e89f77c24c1e75e466749ea9980857a637ce4ddc96",
+      "sha256": "1b09e9171d871970cb59c6b96744d607f324a232c76ad575f66d1f261cd06a32"
+    },
+    {
+      "path": "firmware/src/status/StatusLed.cpp",
+      "origin": "canonical-firmware",
+      "source": "src/status/StatusLed.cpp",
+      "source_sha256": "8a992c4d872ce01b98220db1450432cb4a74caccfdcec288daf90563ea42e331",
+      "sha256": "8a992c4d872ce01b98220db1450432cb4a74caccfdcec288daf90563ea42e331"
+    },
+    {
+      "path": "firmware/src/status/StatusLed.h",
+      "origin": "canonical-firmware",
+      "source": "src/status/StatusLed.h",
+      "source_sha256": "090b6b4cfc53f5ff177b6cc9a758a41f986475bf4ed076edfee403581bc0c086",
+      "sha256": "090b6b4cfc53f5ff177b6cc9a758a41f986475bf4ed076edfee403581bc0c086"
+    },
+    {
+      "path": "firmware/shared/DetailCodec.h",
+      "origin": "canonical-firmware",
+      "source": "shared/DetailCodec.h",
+      "source_sha256": "5ca0ffe4ac10ca848f96cbb9eb0cfd01c5262e03f4a640eec94647ca24d88ef6",
+      "sha256": "5ca0ffe4ac10ca848f96cbb9eb0cfd01c5262e03f4a640eec94647ca24d88ef6"
+    },
+    {
+      "path": "firmware/shared/DetailJson.h",
+      "origin": "canonical-firmware",
+      "source": "shared/DetailJson.h",
+      "source_sha256": "ae7d85482e4a7c201383186342db3e129dd69ecfdd5f2e8aab7a023f13eba8b2",
+      "sha256": "7c8496ce4351acedae063f40d08cbb15c71ebad1f47d3b36da903926fa5c9737"
+    },
+    {
+      "path": "firmware/shared/FieldPage.h",
+      "origin": "canonical-firmware",
+      "source": "shared/FieldPage.h",
+      "source_sha256": "32cd49d6eb2fc45dc213204b3d3d2c7b46b01a399c0dab3e6f7eaa2b8666eb69",
+      "sha256": "2ae1d66a590a14b38b18cbb88c0bc609426bbc7e115e2860a8cb56effdf6a69d"
+    },
+    {
+      "path": "firmware/shared/GladiatorLink.h",
+      "origin": "canonical-firmware",
+      "source": "shared/GladiatorLink.h",
+      "source_sha256": "1e7ec07cc22a7ab1d11f485deeaef77555c203a1f9c065dd4a7edf9b8d303b2c",
+      "sha256": "1e7ec07cc22a7ab1d11f485deeaef77555c203a1f9c065dd4a7edf9b8d303b2c"
+    },
+    {
+      "path": "firmware/shared/InterfaceVocabulary.h",
+      "origin": "canonical-firmware",
+      "source": "shared/InterfaceVocabulary.h",
+      "source_sha256": "ad08fb0c199b32b4913fbbd7439479d08ec65d3a231af65488c785ea0d968c25",
+      "sha256": "ad08fb0c199b32b4913fbbd7439479d08ec65d3a231af65488c785ea0d968c25"
+    },
+    {
+      "path": "firmware/shared/JsonEscape.h",
+      "origin": "canonical-firmware",
+      "source": "shared/JsonEscape.h",
+      "source_sha256": "dd8c877b6f50e9e6d6e6468c0e7f6158e7137421c47a60f6f513afefc15000fc",
+      "sha256": "9e5effe9dbcbc0b93b60bfaadca9c9807eda83a235fb8fb951babf95506aff0b"
+    },
+    {
+      "path": "firmware/shared/MastPolicy.h",
+      "origin": "canonical-firmware",
+      "source": "shared/MastPolicy.h",
+      "source_sha256": "da54b5046eb3c013dd9f7975f8cc27cffce62a83bcd3e2eddf4777a016c86665",
+      "sha256": "c758c48def23e997fad23aed63083eabb67cc401b43a60709366969f7cb473c8"
+    },
+    {
+      "path": "firmware/shared/OperatorProtocol.h",
+      "origin": "canonical-firmware",
+      "source": "shared/OperatorProtocol.h",
+      "source_sha256": "51ff6d1a0b986448ea2a8d3241eca4e2cd3c05d13632767c38441f40d6bb77a8",
+      "sha256": "aa0f830a3dfa7680dff0cf5b80267313b522c03f10eff7184402bc7e30088662"
+    },
+    {
+      "path": "firmware/shared/OperatorRender.h",
+      "origin": "canonical-firmware",
+      "source": "shared/OperatorRender.h",
+      "source_sha256": "ad64d6dd4e3ab147ed41c9273d01095f29f96a0463e6766c20118bda3e7d66cf",
+      "sha256": "0641c7aeb1ad62af032a0786907b34564fe216794ec5ac0bc0e0076d44c9a11a"
+    },
+    {
+      "path": "firmware/shared/OperatorStatus.h",
+      "origin": "canonical-firmware",
+      "source": "shared/OperatorStatus.h",
+      "source_sha256": "68273eea8084a2d673aee2f743d153ee668757fda0b73bfccc908f7384288978",
+      "sha256": "5200a87a61164022930e3adca82fb00475cce44a70ccd5da851300a4bf4327ad"
+    },
+    {
+      "path": "firmware/shared/RangeGrid.h",
+      "origin": "canonical-firmware",
+      "source": "shared/RangeGrid.h",
+      "source_sha256": "412799abc3979e91b2eb7f028d33d146ae908d8899696c9ef5d1e53f35b1d7ee",
+      "sha256": "412799abc3979e91b2eb7f028d33d146ae908d8899696c9ef5d1e53f35b1d7ee"
+    },
+    {
+      "path": "firmware/shared/RobotProtocol.h",
+      "origin": "canonical-firmware",
+      "source": "shared/RobotProtocol.h",
+      "source_sha256": "69afbb236eef93374572a8d61c8555d88da2c85d74c9288806bf8bfc34acec91",
+      "sha256": "69afbb236eef93374572a8d61c8555d88da2c85d74c9288806bf8bfc34acec91"
+    },
+    {
+      "path": "firmware/shared/secrets.example.h",
+      "origin": "canonical-firmware",
+      "source": "shared/secrets.example.h",
+      "source_sha256": "cf29207b74cdb7390b941136a17c9f4461d2dbc748d02808c06f04d5008e9747",
+      "sha256": "049a7eb6ce10d3f39952ea8d46b9e9a33322bc2f3cbf5969ff8184292882587a"
+    },
+    {
+      "path": "firmware/shared/ServicePage.h",
+      "origin": "canonical-firmware",
+      "source": "shared/ServicePage.h",
+      "source_sha256": "0ccdb9ce2b422c8fe19d0f6ab1ca7a2b2b60080b9bdbf2e4cca03e96638723de",
+      "sha256": "0ccdb9ce2b422c8fe19d0f6ab1ca7a2b2b60080b9bdbf2e4cca03e96638723de"
+    },
+    {
+      "path": "firmware/shared/VisualState.h",
+      "origin": "canonical-firmware",
+      "source": "shared/VisualState.h",
+      "source_sha256": "174857230c4a3529c1fd40ce59c3c4f0d7b8617ee6378cf58525d1410c781a31",
+      "sha256": "a9a968695dd3f55ab3baeb72589688c11ce58c337505cfdc5112701c02709a38"
+    },
+    {
+      "path": "firmware/shared/WifiLink.h",
+      "origin": "canonical-firmware",
+      "source": "shared/WifiLink.h",
+      "source_sha256": "5062034a453dd2457817efe86a57d962fcc5bf49f2b4de209d76b914190ad433",
+      "sha256": "1b1cc2cde16345c1775137481628bf2981efc8bdf09cf2e6260904670452c17f"
+    },
+    {
+      "path": "firmware/scripts/bounded_sh2.py",
+      "origin": "canonical-firmware",
+      "source": "scripts/bounded_sh2.py",
+      "source_sha256": "e1aa391e6d0a53757f85572e8827eb72255d1ed24e986cdc1c5c9db7a8771c46",
+      "sha256": "d7a3eb8e1e155d1f9c8237f34fde786ebe02d7e6441679f9caa0bd88abe1322c"
+    },
+    {
+      "path": "firmware/cam/platformio.ini",
+      "origin": "canonical-firmware",
+      "source": "cam/platformio.ini",
+      "source_sha256": "43a4d281089edb8ecaefcb816771acf9c5b9e8691bc13e2ef7fa3853f9f0a74c",
+      "sha256": "29f948cd2227de7e7c4c816963ffc5157962d57343e21037db6df6d47aeb030b"
+    },
+    {
+      "path": "firmware/cam/src/CameraControl.h",
+      "origin": "canonical-firmware",
+      "source": "cam/src/CameraControl.h",
+      "source_sha256": "aee1c70cc528d31df37985acc0434859dd8fa1a9847bcc40d85572e922cea92b",
+      "sha256": "33ef49b26eb5027bb74375452a0dc5bc64df557cce5b38af09bc3d0c30cef2e3"
+    },
+    {
+      "path": "firmware/cam/src/CamOtaPolicy.h",
+      "origin": "canonical-firmware",
+      "source": "cam/src/CamOtaPolicy.h",
+      "source_sha256": "478664efb4ce3517d0498cf14777fec33423754e3b3658f36fa72a77b2808cab",
+      "sha256": "67570a5b55d412b9c87fa521aab247916afc5ad296775c33acc3590aac9bd43c"
+    },
+    {
+      "path": "firmware/cam/src/Config.h",
+      "origin": "canonical-firmware",
+      "source": "cam/src/Config.h",
+      "source_sha256": "8c18b6ac930ef63c649bffbacb586b4dc3908ae75eecd9f0104fc57e5db95116",
+      "sha256": "f4119091df681848e158cfd638d6f9c6c5b2fcf1d3e41b7e7adc0d477b101d0a"
+    },
+    {
+      "path": "firmware/cam/src/HalloweenDisplay.h",
+      "origin": "canonical-firmware",
+      "source": "cam/src/HalloweenDisplay.h",
+      "source_sha256": "b7e4e7ca4cc3177bd4e868c2c0c834ad40c6bab8c709656b0a5396b8fff87623",
+      "sha256": "13c6aed57df67ca6592498a1dc7995f9aab91fe9cb215c2baca1eaad01771bf1"
+    },
+    {
+      "path": "firmware/cam/src/Identity.cpp",
+      "origin": "canonical-firmware",
+      "source": "cam/src/Identity.cpp",
+      "source_sha256": "cd31b2299a29e83987e8adfd8e691160a3040171619866df7e0fccf3954c9249",
+      "sha256": "9271a86322a7feaa950e5a9518e3a0e288ed9f024fc0d0933e0d83f4d3e34187"
+    },
+    {
+      "path": "firmware/cam/src/LocalConfig.example.h",
+      "origin": "canonical-firmware",
+      "source": "cam/src/LocalConfig.example.h",
+      "source_sha256": "1b0dfba81991ccc35ed017636d3462e97885e5c5d0b386fbfc4ffca85a294b4f",
+      "sha256": "b4caf38ea15b8bd916268454babbcc73f0c6fb1530f8921dca736cd5a5d992a3"
+    },
+    {
+      "path": "firmware/cam/src/main.cpp",
+      "origin": "canonical-firmware",
+      "source": "cam/src/main.cpp",
+      "source_sha256": "1ff0cd44bdbf83ea914501b05bb2ffb3aa9c24dd2e3b794cbc2b0f569c98bd1d",
+      "sha256": "150eae9171d6b4bc65636953020ae77215bf9505e60677c2bbefd3f425e701e8"
+    },
+    {
+      "path": "firmware/cam/src/Maintenance.h",
+      "origin": "canonical-firmware",
+      "source": "cam/src/Maintenance.h",
+      "source_sha256": "efad54be936e55337ff0d9239eb444893fdac113abde81907615fd7fef123b9b",
+      "sha256": "97327b4cb8d4d863769d56942911b8da3b758dd1997ba3b7173e71a52f34b665"
+    },
+    {
+      "path": "firmware/cam/src/MaintenancePage.h",
+      "origin": "canonical-firmware",
+      "source": "cam/src/MaintenancePage.h",
+      "source_sha256": "a0fbde480748c49bf80f9214553aedb26b5b149c2fc590e27212b02a7c090dc0",
+      "sha256": "9f621bd779febd6aad2e63e2e38ddf3c4e546b9d77aa4cf4ca39a17128e869bf"
+    },
+    {
+      "path": "firmware/cam/src/OperatorProtocol.h",
+      "origin": "canonical-firmware",
+      "source": "cam/src/OperatorProtocol.h",
+      "source_sha256": "51ff6d1a0b986448ea2a8d3241eca4e2cd3c05d13632767c38441f40d6bb77a8",
+      "sha256": "aa0f830a3dfa7680dff0cf5b80267313b522c03f10eff7184402bc7e30088662"
+    },
+    {
+      "path": "firmware/cam/src/OperatorRender.h",
+      "origin": "canonical-firmware",
+      "source": "cam/src/OperatorRender.h",
+      "source_sha256": "ad64d6dd4e3ab147ed41c9273d01095f29f96a0463e6766c20118bda3e7d66cf",
+      "sha256": "0641c7aeb1ad62af032a0786907b34564fe216794ec5ac0bc0e0076d44c9a11a"
+    },
+    {
+      "path": "firmware/cam/src/OperatorStatus.h",
+      "origin": "canonical-firmware",
+      "source": "cam/src/OperatorStatus.h",
+      "source_sha256": "68273eea8084a2d673aee2f743d153ee668757fda0b73bfccc908f7384288978",
+      "sha256": "5200a87a61164022930e3adca82fb00475cce44a70ccd5da851300a4bf4327ad"
+    },
+    {
+      "path": "firmware/cam/src/VisualState.h",
+      "origin": "canonical-firmware",
+      "source": "cam/src/VisualState.h",
+      "source_sha256": "c74b413c509740e29fe4a58f6bf2f6f4058fc87d181b78a97e08f6efee54c5a5",
+      "sha256": "50b2112a415322153c61661146ffc3ebed076c43e8114bee63831f16acce9b3c"
+    },
+    {
+      "path": "firmware/gateway/CMakeLists.txt",
+      "origin": "canonical-firmware",
+      "source": "gateway/CMakeLists.txt",
+      "source_sha256": "bdd53e70f05442caeb4f3e83e56695430adacd109044236f6dda36d9269c98e1",
+      "sha256": "bdd53e70f05442caeb4f3e83e56695430adacd109044236f6dda36d9269c98e1"
+    },
+    {
+      "path": "firmware/gateway/dependencies.lock",
+      "origin": "canonical-firmware",
+      "source": "gateway/dependencies.lock",
+      "source_sha256": "183ceea953ed82fb420fc961459de8ff8ef6d247b06f00dca62fd090ae3f8b31",
+      "sha256": "39b1c8e5d1f6571317b59489918c302a5323d2fc75c8a69a75fd0a7646e05829"
+    },
+    {
+      "path": "firmware/gateway/partitions.csv",
+      "origin": "canonical-firmware",
+      "source": "gateway/partitions.csv",
+      "source_sha256": "a758a1144e91a1650ca0e711f11fc18e5e0a0d39696ee8ab61d08652372b040b",
+      "sha256": "a758a1144e91a1650ca0e711f11fc18e5e0a0d39696ee8ab61d08652372b040b"
+    },
+    {
+      "path": "firmware/gateway/platformio.ini",
+      "origin": "canonical-firmware",
+      "source": "gateway/platformio.ini",
+      "source_sha256": "a12caf6771d42bb9b786980f36bbb0fe019e98d2222865863e3c781be56ee8a5",
+      "sha256": "a12caf6771d42bb9b786980f36bbb0fe019e98d2222865863e3c781be56ee8a5"
+    },
+    {
+      "path": "firmware/gateway/src/BoothApplication.h",
+      "origin": "canonical-firmware",
+      "source": "gateway/src/BoothApplication.h",
+      "source_sha256": "b3c860a076249e54c951e532e02e2ff8ab2db68c0f3cff82b6ea4bd50df160d0",
+      "sha256": "871da1bf06c0cec224beee4ff24d3b9bad7ea75b93a470b18b28a57b0fc28f28"
+    },
+    {
+      "path": "firmware/gateway/src/CameraApplication.h",
+      "origin": "canonical-firmware",
+      "source": "gateway/src/CameraApplication.h",
+      "source_sha256": "092275393382bc4460ef88d32771581eb26b24323062dcccc569add6db2ad98d",
+      "sha256": "ec8186d9e0ec2da101e85f3e382644d8c045d2561232b2bb384ae6d1d9140812"
+    },
+    {
+      "path": "firmware/gateway/src/CMakeLists.txt",
+      "origin": "canonical-firmware",
+      "source": "gateway/src/CMakeLists.txt",
+      "source_sha256": "84d76076b131a233df1e37913b18dd1783bf523267ac4d303f0de65691b7bf82",
+      "sha256": "84d76076b131a233df1e37913b18dd1783bf523267ac4d303f0de65691b7bf82"
+    },
+    {
+      "path": "firmware/gateway/src/ControlApplication.h",
+      "origin": "canonical-firmware",
+      "source": "gateway/src/ControlApplication.h",
+      "source_sha256": "701b65bb6770452558aa20f39fd25c5fd61183e7f4bd0d4c16a16d52f1a3c513",
+      "sha256": "701b65bb6770452558aa20f39fd25c5fd61183e7f4bd0d4c16a16d52f1a3c513"
+    },
+    {
+      "path": "firmware/gateway/src/CrowdApplication.h",
+      "origin": "canonical-firmware",
+      "source": "gateway/src/CrowdApplication.h",
+      "source_sha256": "d7ea7b9273a8c9359ba1d7cf9d6c304043e9433fc833b959845ce2898ec8af37",
+      "sha256": "1d5a364bf44087eba9872737b441d4ad45ae8469ba0ba53f8c449cac1e52340c"
+    },
+    {
+      "path": "firmware/gateway/src/FieldHelpPage.h",
+      "origin": "canonical-firmware",
+      "source": "gateway/src/FieldHelpPage.h",
+      "source_sha256": "8319ffb8491e7d6cafddc65b242f738591af058c78dc8a3308f9eb66910c7d65",
+      "sha256": "6514db107a0ae314d1c0e1cb819e9f23914dab9dc14fe77882cc94ccf4577800"
+    },
+    {
+      "path": "firmware/gateway/src/GatewayConfig.h",
+      "origin": "canonical-firmware",
+      "source": "gateway/src/GatewayConfig.h",
+      "source_sha256": "fc38650b100c2932e3805e9c8866adc9ce010e14b79189e10ca7b44e9fa17c8f",
+      "sha256": "fc38650b100c2932e3805e9c8866adc9ce010e14b79189e10ca7b44e9fa17c8f"
+    },
+    {
+      "path": "firmware/gateway/src/GatewayPage.h",
+      "origin": "canonical-firmware",
+      "source": "gateway/src/GatewayPage.h",
+      "source_sha256": "a3ef8196ddceda619e5eb98202afdf1cb94b8800eab7fe327187d9ed616bb4bb",
+      "sha256": "5bd55f6d89ff2bd84d084d54181d55a27ef6f0272838cc47596e78f649b24be1"
+    },
+    {
+      "path": "firmware/gateway/src/HardwareTestApplication.h",
+      "origin": "canonical-firmware",
+      "source": "gateway/src/HardwareTestApplication.h",
+      "source_sha256": "3048e0f955711369820cadce4105436426684b9767bd78f0671b1f16c2daaf73",
+      "sha256": "3048e0f955711369820cadce4105436426684b9767bd78f0671b1f16c2daaf73"
+    },
+    {
+      "path": "firmware/gateway/src/idf_component.yml",
+      "origin": "canonical-firmware",
+      "source": "gateway/src/idf_component.yml",
+      "source_sha256": "51a47a71c505fcdef74982acf6c9afdd95bb117ca5f67aecebf57d44294a8988",
+      "sha256": "51a47a71c505fcdef74982acf6c9afdd95bb117ca5f67aecebf57d44294a8988"
+    },
+    {
+      "path": "firmware/gateway/src/LinkApplication.h",
+      "origin": "canonical-firmware",
+      "source": "gateway/src/LinkApplication.h",
+      "source_sha256": "68c741a9ffebf635f8be86b8fa77e0e35d2d1fe5099882dd8c686caa293b776c",
+      "sha256": "18dbb2d041b5103a40a0d90e044938cb97e547ac179af9722251a855152a1d9e"
+    },
+    {
+      "path": "firmware/gateway/src/main.cpp",
+      "origin": "canonical-firmware",
+      "source": "gateway/src/main.cpp",
+      "source_sha256": "c4ccdb8ace4478021477534e64c4fe9344d604721ea1c0a3e7c983a1d3b993df",
+      "sha256": "bfbcfa12f224957af63942d9d858fd913a67603f0b902b22eb9c0b0cf9d45d59"
+    },
+    {
+      "path": "firmware/gateway/src/MastApplication.h",
+      "origin": "canonical-firmware",
+      "source": "gateway/src/MastApplication.h",
+      "source_sha256": "1aeae13632cea8109fc1bf4fb836b9eff40b0b9ba94e5a5d374faa4465b70917",
+      "sha256": "1aeae13632cea8109fc1bf4fb836b9eff40b0b9ba94e5a5d374faa4465b70917"
+    },
+    {
+      "path": "firmware/gateway/src/MastSetupApplication.h",
+      "origin": "canonical-firmware",
+      "source": "gateway/src/MastSetupApplication.h",
+      "source_sha256": "301566f88265fa5bf319f704bd1beb86f9f61497bfec3bd87696f5c9eca78b06",
+      "sha256": "052ffcb77529997949bd2f6c04a76f858d72ae9289ffddff608d099184758487"
+    },
+    {
+      "path": "firmware/gateway/src/VisualApplication.h",
+      "origin": "canonical-firmware",
+      "source": "gateway/src/VisualApplication.h",
+      "source_sha256": "5a4b12f658d11050b145729abedf5bd23f1cc89424e6705b8d13c764eb15904f",
+      "sha256": "1f683f97fd0beb2d61dc426b5ef3a0b6498a27b5c7d3c44b61683e32ae2a7228"
+    },
+    {
+      "path": "firmware/test/host/Arduino.h",
+      "origin": "canonical-firmware",
+      "source": "test/host/Arduino.h",
+      "source_sha256": "b100c5a01b7b76a3ce74cb84615252395653a196ee68186acdd42ab6f899f03d",
+      "sha256": "b100c5a01b7b76a3ce74cb84615252395653a196ee68186acdd42ab6f899f03d"
+    },
+    {
+      "path": "firmware/test/host/esp_timer.h",
+      "origin": "canonical-firmware",
+      "source": "test/host/esp_timer.h",
+      "source_sha256": "07a89953f0e66294af80fc26e1c1ae6e988d4181b319e53a3e74039c1136c6db",
+      "sha256": "07a89953f0e66294af80fc26e1c1ae6e988d4181b319e53a3e74039c1136c6db"
+    },
+    {
+      "path": "firmware/test/host/test_link.cpp",
+      "origin": "canonical-firmware",
+      "source": "test/host/test_link.cpp",
+      "source_sha256": "10ab996f88051ec0ee418058f4bae7e45e9c33671795729eae20c8cdcc2b2475",
+      "sha256": "10ab996f88051ec0ee418058f4bae7e45e9c33671795729eae20c8cdcc2b2475"
+    },
+    {
+      "path": "firmware/test/host/test_protocol.cpp",
+      "origin": "canonical-firmware",
+      "source": "test/host/test_protocol.cpp",
+      "source_sha256": "19709cc7d01172b456e7fec5f08b3210c4136362854da8c3796096e5874e6542",
+      "sha256": "19709cc7d01172b456e7fec5f08b3210c4136362854da8c3796096e5874e6542"
+    },
+    {
+      "path": "firmware/test/host/test_sensors.cpp",
+      "origin": "canonical-firmware",
+      "source": "test/host/test_sensors.cpp",
+      "source_sha256": "1e582edde0316763b1c92b3f57e4878dc048e5fe6476fb0c1a30ab30cce6ec26",
+      "sha256": "be15a5a3f38d01be066e8055a6422cfabde41ad760092242f123cf8ca1552dcc"
+    },
+    {
+      "path": "firmware/test/host/test_trim.cpp",
+      "origin": "canonical-firmware",
+      "source": "test/host/test_trim.cpp",
+      "source_sha256": "b1f0fe774b266c021defab24d703e0149e1903351a6e56b9a4b3b9603b29b3d9",
+      "sha256": "b1f0fe774b266c021defab24d703e0149e1903351a6e56b9a4b3b9603b29b3d9"
+    },
+    {
+      "path": "firmware/test/host/test_wifi.cpp",
+      "origin": "canonical-firmware",
+      "source": "test/host/test_wifi.cpp",
+      "source_sha256": "89d2b8de711d875b977f412515cc88a849193e88179bd6095e0ca83dbcca1732",
+      "sha256": "89d2b8de711d875b977f412515cc88a849193e88179bd6095e0ca83dbcca1732"
+    },
+    {
+      "path": "firmware/test/host/WifiTestPlatform.h",
+      "origin": "canonical-firmware",
+      "source": "test/host/WifiTestPlatform.h",
+      "source_sha256": "8645636e9faa62396cdf9f59922c49f758c96e9a598075d33646227ad0c14311",
+      "sha256": "8645636e9faa62396cdf9f59922c49f758c96e9a598075d33646227ad0c14311"
+    },
+    {
+      "path": "firmware/test/host/Wire.h",
+      "origin": "canonical-firmware",
+      "source": "test/host/Wire.h",
+      "source_sha256": "951d70e26a80143c6220b71b6e5ebb565189fc95665f2fe2ac1d67ecb6751993",
+      "sha256": "951d70e26a80143c6220b71b6e5ebb565189fc95665f2fe2ac1d67ecb6751993"
+    },
+    {
+      "path": "firmware/tests/detail_json_test.cpp",
+      "origin": "canonical-firmware",
+      "source": "tests/detail_json_test.cpp",
+      "source_sha256": "622adc305d2dc40edbf3f2710fbd9ec95e8a9b1de2c142fb0093522be29e3254",
+      "sha256": "333164ab78233c68471d412f09542b0063b9ef93290e167f8b09c4d23e4258d9"
+    },
+    {
+      "path": "firmware/tests/drive_power_test.cpp",
+      "origin": "canonical-firmware",
+      "source": "tests/drive_power_test.cpp",
+      "source_sha256": "68a24a2c8a0dd63479e4cccbbec7117f29bc4a4896849b9f2597e150e08f44b9",
+      "sha256": "68a24a2c8a0dd63479e4cccbbec7117f29bc4a4896849b9f2597e150e08f44b9"
+    },
+    {
+      "path": "firmware/tests/gateway_operator_status_test.cpp",
+      "origin": "canonical-firmware",
+      "source": "tests/gateway_operator_status_test.cpp",
+      "source_sha256": "ba91341ff33d98b73153707490bd4315a075048199fd7e99ba990bbd790b08f8",
+      "sha256": "ed9f269d25eba4a461b2b2fcdaa89e9fdd422aa9c9ae5b9817e1b0da46ef364c"
+    },
+    {
+      "path": "firmware/tests/i2c_bus_recovery_test.cpp",
+      "origin": "canonical-firmware",
+      "source": "tests/i2c_bus_recovery_test.cpp",
+      "source_sha256": "a29ceaeec4784276bd1c5aa9483cbc598c2d39b03c8ad830e452eff031451be5",
+      "sha256": "a29ceaeec4784276bd1c5aa9483cbc598c2d39b03c8ad830e452eff031451be5"
+    },
+    {
+      "path": "firmware/tests/i2c_mocks/Arduino.h",
+      "origin": "canonical-firmware",
+      "source": "tests/i2c_mocks/Arduino.h",
+      "source_sha256": "61c591d4e13b426d790e77399cbbb5f3727c2a76c006ae8348d6747d0d8a0006",
+      "sha256": "61c591d4e13b426d790e77399cbbb5f3727c2a76c006ae8348d6747d0d8a0006"
+    },
+    {
+      "path": "firmware/tests/i2c_mocks/driver/gpio.h",
+      "origin": "canonical-firmware",
+      "source": "tests/i2c_mocks/driver/gpio.h",
+      "source_sha256": "562a045362ddcffe6368713b4c89adbcd4ee4e5d7e2469ac7b83113f31f1f5e5",
+      "sha256": "562a045362ddcffe6368713b4c89adbcd4ee4e5d7e2469ac7b83113f31f1f5e5"
+    },
+    {
+      "path": "firmware/tests/i2c_mocks/rom/ets_sys.h",
+      "origin": "canonical-firmware",
+      "source": "tests/i2c_mocks/rom/ets_sys.h",
+      "source_sha256": "53ed6ac77c5f9da0dd749c9556bae06fc08d47c5cab93acc2a2307a47041a075",
+      "sha256": "53ed6ac77c5f9da0dd749c9556bae06fc08d47c5cab93acc2a2307a47041a075"
+    },
+    {
+      "path": "firmware/tests/i2c_mocks/Wire.h",
+      "origin": "canonical-firmware",
+      "source": "tests/i2c_mocks/Wire.h",
+      "source_sha256": "e40b0e08d21a5795ca75b4cc61b804ff1da5342809ecb768af0cd08728219e75",
+      "sha256": "e40b0e08d21a5795ca75b4cc61b804ff1da5342809ecb768af0cd08728219e75"
+    },
+    {
+      "path": "firmware/tests/imu_mocks/Adafruit_BNO08x.h",
+      "origin": "canonical-firmware",
+      "source": "tests/imu_mocks/Adafruit_BNO08x.h",
+      "source_sha256": "a8b87a2cc082971d89db36c03cb2019a686300404bc1e36b356d72df0f1a0064",
+      "sha256": "2c7dea8a8b1b73883adc8c5ac764eb1b3e7477ab8b29cb19612cf0455b04aaf1"
+    },
+    {
+      "path": "firmware/tests/imu_mocks/Arduino.h",
+      "origin": "canonical-firmware",
+      "source": "tests/imu_mocks/Arduino.h",
+      "source_sha256": "07b9ffb1e0150f2be57a4aba06aa2df274e44bc8d1d4de66384dd0c6edb8952e",
+      "sha256": "0a42fabff679f35235a6c571a064a53d202c2d58e038873153fb9fea3e202c65"
+    },
+    {
+      "path": "firmware/tests/imu_mocks/driver/gpio.h",
+      "origin": "canonical-firmware",
+      "source": "tests/imu_mocks/driver/gpio.h",
+      "source_sha256": "9afc5d0d117d035c7df3687e94bd360d5dbf2651be43290f5500a8f7a17b697a",
+      "sha256": "9afc5d0d117d035c7df3687e94bd360d5dbf2651be43290f5500a8f7a17b697a"
+    },
+    {
+      "path": "firmware/tests/imu_mocks/esp_timer.h",
+      "origin": "canonical-firmware",
+      "source": "tests/imu_mocks/esp_timer.h",
+      "source_sha256": "795b8a2fae3a0fa59a7730507e47f817e8a4907a0c4d7b187e72cf41dde3cc2d",
+      "sha256": "f8cdb80a5667a12bfe8a1be27ce97e4c1ff297c1eba4219668150cb2a6c000c6"
+    },
+    {
+      "path": "firmware/tests/imu_mocks/rom/ets_sys.h",
+      "origin": "canonical-firmware",
+      "source": "tests/imu_mocks/rom/ets_sys.h",
+      "source_sha256": "53ed6ac77c5f9da0dd749c9556bae06fc08d47c5cab93acc2a2307a47041a075",
+      "sha256": "53ed6ac77c5f9da0dd749c9556bae06fc08d47c5cab93acc2a2307a47041a075"
+    },
+    {
+      "path": "firmware/tests/imu_mocks/Wire.h",
+      "origin": "canonical-firmware",
+      "source": "tests/imu_mocks/Wire.h",
+      "source_sha256": "6ebdcf1eea01da5b74da63a1e6173bd43321006e1426bd8b3476f5023c59154d",
+      "sha256": "6ebdcf1eea01da5b74da63a1e6173bd43321006e1426bd8b3476f5023c59154d"
+    },
+    {
+      "path": "firmware/tests/imu_recovery_test.cpp",
+      "origin": "canonical-firmware",
+      "source": "tests/imu_recovery_test.cpp",
+      "source_sha256": "007d1db60e8e30e750ebec54307b4aa156be4402981e3919c2861c72aca94b02",
+      "sha256": "4150381dbb57581848a15fb0a33617ad59a3bf7af15509b377efa41c25ce5558"
+    },
+    {
+      "path": "firmware/tests/json_stream_test.cpp",
+      "origin": "canonical-firmware",
+      "source": "tests/json_stream_test.cpp",
+      "source_sha256": "f589fae42c73553e0538774a89f7126c20940ec99cc64a3ac89d8e064e3329e4",
+      "sha256": "ffe9506f701a02e40cb2bcccde5242d93e95fa06c843d983e51d1d20650b7e2a"
+    },
+    {
+      "path": "firmware/tests/mast_gpio_mocks/Arduino.h",
+      "origin": "canonical-firmware",
+      "source": "tests/mast_gpio_mocks/Arduino.h",
+      "source_sha256": "b86f115fb1073d80d3c13d616c2827e7bfedcd1ce2ed191c9914e00eff716e91",
+      "sha256": "55734b90dd92d39a70e8e31903a895a1e31284d1cd5a8934f43b64314966fc71"
+    },
+    {
+      "path": "firmware/tests/mast_gpio_mocks/driver/ledc.h",
+      "origin": "canonical-firmware",
+      "source": "tests/mast_gpio_mocks/driver/ledc.h",
+      "source_sha256": "7f5a851d1d4dac9dd32d5ea17aed9b771ca1e51e65db322541d0f643b86a07fb",
+      "sha256": "d8ce5ada25a9d7d6a436473202f20df594da984fe8f2ced12d2a1545ded7b6b2"
+    },
+    {
+      "path": "firmware/tests/mast_gpio_mocks/soc/gpio_struct.h",
+      "origin": "canonical-firmware",
+      "source": "tests/mast_gpio_mocks/soc/gpio_struct.h",
+      "source_sha256": "1a331246a27c5c247b020c1cdffc3d87974dc70b2ac5b50961159c204a47f4ca",
+      "sha256": "df5ea3c0a2fdbb26b6c3ef616e45ff2ea0a081352ac4f7a5875d36486d4f68ad"
+    },
+    {
+      "path": "firmware/tests/mast_hardware_test.cpp",
+      "origin": "canonical-firmware",
+      "source": "tests/mast_hardware_test.cpp",
+      "source_sha256": "0b04ae33a0efe7a1a0226ecb509ae76a6cf932a77afe5e44a960e6fd78365f48",
+      "sha256": "8e66bdfba8eae3989f34fb1e4bee79f6ac197e069a5fb243eb49ec30d8cc6331"
+    },
+    {
+      "path": "firmware/tests/mast_policy_test.cpp",
+      "origin": "canonical-firmware",
+      "source": "tests/mast_policy_test.cpp",
+      "source_sha256": "62135ba45a1d532109e424670f41e47a72d6e1947385027580399bf634a0cab7",
+      "sha256": "328554b6380d1144310773e47d668880740493f4c4a819982a7a1450e9e23e6f"
+    },
+    {
+      "path": "firmware/tests/operator_protocol_test.cpp",
+      "origin": "canonical-firmware",
+      "source": "tests/operator_protocol_test.cpp",
+      "source_sha256": "90443d4985d8c5a5a27482bc543804dd6461e36d052da6e73a2df5dfdc93cfb9",
+      "sha256": "7b58e129d7f44c8aed168a33c749e94f7e7b5d1ea457690d31fdfef42443548d"
+    },
+    {
+      "path": "firmware/tests/operator_status_test.cpp",
+      "origin": "canonical-firmware",
+      "source": "tests/operator_status_test.cpp",
+      "source_sha256": "79bab6e4202d0b26ae1f802ddbc0ad8628a8d264836b766c0187ecd366770bc3",
+      "sha256": "cb3f576425013a4042f94b3eb85a5827326f461267467b6cd7e044e1f82ad136"
+    },
+    {
+      "path": "firmware/tests/orientation_test.cpp",
+      "origin": "canonical-firmware",
+      "source": "tests/orientation_test.cpp",
+      "source_sha256": "7d10a33663707a4dc93105c9d302a38c4e7740466355f79c7c6f7790fed84b97",
+      "sha256": "8260badb608cdd5ae0c32e4b18c65dfad837a047444ef0e9e9b824b373f8c8e2"
+    },
+    {
+      "path": "firmware/tests/range_grid_test.cpp",
+      "origin": "canonical-firmware",
+      "source": "tests/range_grid_test.cpp",
+      "source_sha256": "33498e14ccfb32492952822073d5bfc35d4c6c4757f21d44f619f465c97c4a37",
+      "sha256": "e4dc3666870342d9d89a1f9a539fce95991c95a6c7f6b627603324d663e3fc29"
+    },
+    {
+      "path": "firmware/tests/visual_state_test.cpp",
+      "origin": "canonical-firmware",
+      "source": "tests/visual_state_test.cpp",
+      "source_sha256": "73ae4cbfd44d161a0e2e704e9e1798d5a99940fe436df48a788c6d1226de912b",
+      "sha256": "73ae4cbfd44d161a0e2e704e9e1798d5a99940fe436df48a788c6d1226de912b"
+    },
+    {
+      "path": "firmware/tools/bb_read.py",
+      "origin": "canonical-firmware",
+      "source": "tools/bb_read.py",
+      "source_sha256": "6b1acf42a5117a4d88137b6f8a1a2159b7f53059e7317d54b46097fa4114027f",
+      "sha256": "6b1acf42a5117a4d88137b6f8a1a2159b7f53059e7317d54b46097fa4114027f"
+    },
+    {
+      "path": "firmware/tools/bench_gateway.py",
+      "origin": "canonical-firmware",
+      "source": "tools/bench_gateway.py",
+      "source_sha256": "5fab9707ef1d3805fa675d990523689b61ca9a4f25a03b729d9ef90758390759",
+      "sha256": "5fab9707ef1d3805fa675d990523689b61ca9a4f25a03b729d9ef90758390759"
+    },
+    {
+      "path": "firmware/tools/bench_sensors.py",
+      "origin": "canonical-firmware",
+      "source": "tools/bench_sensors.py",
+      "source_sha256": "f55c78a8dd2388f695437f986f1ee2263dde4da4dd7c875045a5b136187cfee9",
+      "sha256": "f55c78a8dd2388f695437f986f1ee2263dde4da4dd7c875045a5b136187cfee9"
+    },
+    {
+      "path": "firmware/tools/booth/app.js",
+      "origin": "canonical-firmware",
+      "source": "tools/booth/app.js",
+      "source_sha256": "cac806703d5e8e36919172ab911c823ae50f7306dbd2df5fbb93560f79afd2b1",
+      "sha256": "87b92c6cc9388b2a87546b4e2c8c83652d155ea926f10ca4658459092548eb28"
+    },
+    {
+      "path": "firmware/tools/booth/embed_assets.py",
+      "origin": "canonical-firmware",
+      "source": "tools/booth/embed_assets.py",
+      "source_sha256": "bd34a9830498d8b964ecf8ac8bd3264dd2ef3b27294a09fd506ebd8eef40dd60",
+      "sha256": "833283171d60627cde6b80a2c5772558c0e178f19f0aee8fb1b443e75fa9f4d4"
+    },
+    {
+      "path": "firmware/tools/booth/index.html",
+      "origin": "canonical-firmware",
+      "source": "tools/booth/index.html",
+      "source_sha256": "ecf8b3e6dd6fb7e22a75a3b5cb7fd95fc52c392853b965cf2241f07e78a67e99",
+      "sha256": "749b39194f452fb888a2ac07abdeafc5d0ccf1237f4075688fbd39e1a8072d2e"
+    },
+    {
+      "path": "firmware/tools/booth/mast-settings.js",
+      "origin": "canonical-firmware",
+      "source": "tools/booth/mast-settings.js",
+      "source_sha256": "7ec79524a454795a94ea1eaf0a1442e8c1a75879dccb16652393e7f32ff11b94",
+      "sha256": "49036dca39ea91af9b8b0b6eb5543de182f9ef8091d460beba0962b9eff48fc9"
+    },
+    {
+      "path": "firmware/tools/booth/mast-workbench.js",
+      "origin": "canonical-firmware",
+      "source": "tools/booth/mast-workbench.js",
+      "source_sha256": "0967f568cc9b64290dbb37c26c101bb1502d430e199fe244082eb37d5a12f920",
+      "sha256": "4b89718b25152df5cbb61d2b52b12b8e9e8e1af1c7b210b8a734cfe0863212f7"
+    },
+    {
+      "path": "firmware/tools/booth/test.cjs",
+      "origin": "canonical-firmware",
+      "source": "tools/booth/test.cjs",
+      "source_sha256": "f9f55480fbd123183d32157a209a64717445f0997f6b3d1187fba54a07ca9ffb",
+      "sha256": "c288ff9149ca7b89e8733ee8784d409c98f2ac3b4eba952100c5d6c4025df71c"
+    },
+    {
+      "path": "firmware/tools/booth/test_crowd.cpp",
+      "origin": "canonical-firmware",
+      "source": "tools/booth/test_crowd.cpp",
+      "source_sha256": "466b9ae5b706303fce0e4ac299b8cf89cfb50e8877b96f63ee7473942a885c74",
+      "sha256": "848c91bc3ab3c3be06467614635cbc0554cd9a750b54a4b8346f2e687f9e6277"
+    },
+    {
+      "path": "firmware/tools/booth/test_settings.cjs",
+      "origin": "canonical-firmware",
+      "source": "tools/booth/test_settings.cjs",
+      "source_sha256": "8efc7c2b4aa4cde855d3538b20deb539de317e9a4dc7d829af12ba5093ce7fb0",
+      "sha256": "60871af4a0b4efbcd6b7f64681b942890e6458f75d94b993be0677357d9f088e"
+    },
+    {
+      "path": "firmware/tools/gateway_manage.py",
+      "origin": "canonical-firmware",
+      "source": "tools/gateway_manage.py",
+      "source_sha256": "3e5411fe74d92f05cc7ab2fed090099fc6e7402d59c4579a67a16bfaf587d5db",
+      "sha256": "3e5411fe74d92f05cc7ab2fed090099fc6e7402d59c4579a67a16bfaf587d5db"
+    },
+    {
+      "path": "firmware/tools/hardware-test/app.js",
+      "origin": "canonical-firmware",
+      "source": "tools/hardware-test/app.js",
+      "source_sha256": "2dfe3a6f79af507eaa741e2db11360ee8f69ee57933fb577ff8739825bb62700",
+      "sha256": "c79fb27d4eb20807fb90c2081d1a6028f99e90251fc9c2e1d7af544cb45e56d9"
+    },
+    {
+      "path": "firmware/tools/hardware-test/embed_assets.py",
+      "origin": "canonical-firmware",
+      "source": "tools/hardware-test/embed_assets.py",
+      "source_sha256": "9e2f6b88ba0f77e0e4bd412eac7bc812f06319757f18baaae18b5d135b463563",
+      "sha256": "9e2f6b88ba0f77e0e4bd412eac7bc812f06319757f18baaae18b5d135b463563"
+    },
+    {
+      "path": "firmware/tools/hardware-test/index.html",
+      "origin": "canonical-firmware",
+      "source": "tools/hardware-test/index.html",
+      "source_sha256": "1e24c68ec20cdb331210b852901ae8e7fe5ac8fc0c69b8ce9c3f1d73dff73f83",
+      "sha256": "a4756e18f02bf34a56769c5310b0c9e837883a3f1247cd634d96ad8c1fa1f4a9"
+    },
+    {
+      "path": "firmware/tools/hardware-test/serve.py",
+      "origin": "canonical-firmware",
+      "source": "tools/hardware-test/serve.py",
+      "source_sha256": "bf52d8512853ec20c0637d3959c8c8d6d7db04717848f66f9840fb55ed26041f",
+      "sha256": "bf52d8512853ec20c0637d3959c8c8d6d7db04717848f66f9840fb55ed26041f"
+    },
+    {
+      "path": "firmware/tools/hardware-test/styles.css",
+      "origin": "canonical-firmware",
+      "source": "tools/hardware-test/styles.css",
+      "source_sha256": "0382873c17c22f39d4a16544cf71b1eaddc1f2a086cb248fcd5d5a411d6f8c24",
+      "sha256": "0382873c17c22f39d4a16544cf71b1eaddc1f2a086cb248fcd5d5a411d6f8c24"
+    },
+    {
+      "path": "firmware/tools/no_digest_image.py",
+      "origin": "canonical-firmware",
+      "source": "tools/no_digest_image.py",
+      "source_sha256": "03ae77006e7d79484e0c23f5cb5852e62d65c9559c7efe566b2405c70ff3531b",
+      "sha256": "03ae77006e7d79484e0c23f5cb5852e62d65c9559c7efe566b2405c70ff3531b"
+    },
+    {
+      "path": "firmware/tools/test_gateway_http.py",
+      "origin": "canonical-firmware",
+      "source": "tools/test_gateway_http.py",
+      "source_sha256": "2c7e15da31e2bda8b3c637428cbb7d1396ce3e1ffea2c8b298735b93baa737f2",
+      "sha256": "2c7e15da31e2bda8b3c637428cbb7d1396ce3e1ffea2c8b298735b93baa737f2"
+    },
+    {
+      "path": "firmware/tools/test_interface_v1.cjs",
+      "origin": "canonical-firmware",
+      "source": "tools/test_interface_v1.cjs",
+      "source_sha256": "637afe9a436f319ce2acc0429b021c5fc4dd9995be09381b7d6dcc38f418f5a1",
+      "sha256": "f139ed5985746986fe422af65fa60f176061c85d1719d761d658b92dd2252be5"
+    },
+    {
+      "path": "firmware/tools/test_link_ui.cjs",
+      "origin": "canonical-firmware",
+      "source": "tools/test_link_ui.cjs",
+      "source_sha256": "f6b154905004fd130f6ec25869bc7bac7bc1dcdc7079210d247876d63b7837cb",
+      "sha256": "1b26bb982614b1a0690c53d2b1928f515e05fca6ffd6280c7eb7d18ccf85ea69"
+    },
+    {
+      "path": "firmware/tools/tune_ratio.py",
+      "origin": "canonical-firmware",
+      "source": "tools/tune_ratio.py",
+      "source_sha256": "0bdb3a80949376f3a4b4ca3a3342980ae28909b2f160ae4c9936bcd06ee8d9e7",
+      "sha256": "0bdb3a80949376f3a4b4ca3a3342980ae28909b2f160ae4c9936bcd06ee8d9e7"
+    },
+    {
+      "path": "firmware/tools/tune_straight.py",
+      "origin": "canonical-firmware",
+      "source": "tools/tune_straight.py",
+      "source_sha256": "1999ef97db3e8b4a2ba48eeab0291073f3668e3accc535070448635f7569bf51",
+      "sha256": "69e9761f2e19fb5efed0f1a7ba3f154ad2a51010d533aa4790d958265b2c86eb"
+    },
+    {
+      "path": "firmware/platformio.ini",
+      "origin": "canonical-firmware",
+      "source": "platformio.ini",
+      "source_sha256": "b9cc8037c665088cfd932d5d087025a12a720e98576c1dc70cffdda88f1f15fb",
+      "sha256": "b3645511a8f313194118e6aae28d14f6d64fb4197a5dbc422b0960dcd5709ad2"
+    },
+    {
+      "path": "firmware/platformio_local.ini.example",
+      "origin": "canonical-firmware",
+      "source": "platformio_local.ini.example",
+      "source_sha256": "7e9cb19a1c9688ba90e6c46166987aac3703d0e03854bf3a62b5ee86a55b57de",
+      "sha256": "8d2d5e346bf91470db6e5346e864d77d514dc5e5faeea3e4d2fcf7c0aac62a6e"
+    },
+    {
+      "path": "hardware/cad/chassis/Gladiator_Master.FCStd",
+      "origin": "cad-repository",
+      "source": "cad/master/Gladiator_Master.FCStd",
+      "source_sha256": "7e093a02bd192b92f0da02ca7addcf4192adb326b94134510cc4ee3244ee0cec",
+      "sha256": "7e093a02bd192b92f0da02ca7addcf4192adb326b94134510cc4ee3244ee0cec"
+    },
+    {
+      "path": "hardware/cad/chassis/Gladiator_Master.step",
+      "origin": "cad-repository",
+      "source": "cad/master/Gladiator_Master.step",
+      "source_sha256": "d6348c324c6d60c4559eab81ad5a32d708bcdaad234c1ba6ed9b94d65974b111",
+      "sha256": "d6348c324c6d60c4559eab81ad5a32d708bcdaad234c1ba6ed9b94d65974b111"
+    },
+    {
+      "path": "hardware/cad/head-assembly/Gladiator_Head_Master.FCStd",
+      "origin": "cad-repository",
+      "source": "cad/head/master/Gladiator_Head_Master.FCStd",
+      "source_sha256": "6443d8ffdf1df4fad25f8451f90801bebe3b738a294a9461a2743abfec106f65",
+      "sha256": "6443d8ffdf1df4fad25f8451f90801bebe3b738a294a9461a2743abfec106f65"
+    },
+    {
+      "path": "hardware/cad/head-assembly/Gladiator_Head_Master.step",
+      "origin": "cad-repository",
+      "source": "cad/head/master/Gladiator_Head_Master.step",
+      "source_sha256": "1dd4e481f35f529c5d12dc4e1cf7df51705b3ea03a4b72765d4bd253459c7431",
+      "sha256": "1dd4e481f35f529c5d12dc4e1cf7df51705b3ea03a4b72765d4bd253459c7431"
+    },
+    {
+      "path": "hardware/cad/head-assembly/preview-front.png",
+      "origin": "cad-repository",
+      "source": "cad/head/master/preview-front.png",
+      "source_sha256": "909b343bfd5192267c538f426f9d2ee9b69fc47567d7a3051acb0d3ced8f406a",
+      "sha256": "909b343bfd5192267c538f426f9d2ee9b69fc47567d7a3051acb0d3ced8f406a"
+    },
+    {
+      "path": "hardware/cad/head-assembly/preview-iso.png",
+      "origin": "cad-repository",
+      "source": "cad/head/master/preview-iso.png",
+      "source_sha256": "f4f08c8653908edfbeec178e5aa86d7676e96c35540487c0dae17c9a7102ac16",
+      "sha256": "f4f08c8653908edfbeec178e5aa86d7676e96c35540487c0dae17c9a7102ac16"
+    },
+    {
+      "path": "hardware/cad/head-parts/Gladiator_Head_v05_PanStack.FCStd",
+      "origin": "cad-repository",
+      "source": "cad/head/v05-sensor-mounts/Gladiator_Head_v05_PanStack.FCStd",
+      "source_sha256": "33fe90251d1e9f85974a7538ae64719e431e4201b5b8bc7ebbe5434c559838dd",
+      "sha256": "33fe90251d1e9f85974a7538ae64719e431e4201b5b8bc7ebbe5434c559838dd"
+    },
+    {
+      "path": "hardware/cad/head-parts/Gladiator_Head_v05_PanStack.step",
+      "origin": "cad-repository",
+      "source": "cad/head/v05-sensor-mounts/Gladiator_Head_v05_PanStack.step",
+      "source_sha256": "eb8eae7be01578a8279fb908b5ae885976822e52c601f65d4e77b673dddbc5f6",
+      "sha256": "eb8eae7be01578a8279fb908b5ae885976822e52c601f65d4e77b673dddbc5f6"
+    },
+    {
+      "path": "hardware/cad/head-parts/sensor-mounts.png",
+      "origin": "cad-repository",
+      "source": "cad/head/v05-sensor-mounts/sensor-mounts.png",
+      "source_sha256": "fbcc06cb1206b3b2e136e8371f559c17a614284d8f81f7b8f9a6cacedccd90fe",
+      "sha256": "fbcc06cb1206b3b2e136e8371f559c17a614284d8f81f7b8f9a6cacedccd90fe"
+    },
+    {
+      "path": "hardware/cad/head-parts/stl/Gladiator_Head_v05_GH44_Dual_Carrier.stl",
+      "origin": "cad-repository",
+      "source": "cad/head/v05-sensor-mounts/stl/Gladiator_Head_v05_GH44_Dual_Carrier.stl",
+      "source_sha256": "fb9e2a848d4cc317567f559262b0baa8e235efa32484d3ee769b196d24d1a5a9",
+      "sha256": "fb9e2a848d4cc317567f559262b0baa8e235efa32484d3ee769b196d24d1a5a9"
+    },
+    {
+      "path": "hardware/cad/head-parts/stl/Gladiator_Head_v05_GH44_Tilt_Receiver.stl",
+      "origin": "cad-repository",
+      "source": "cad/head/v05-sensor-mounts/stl/Gladiator_Head_v05_GH44_Tilt_Receiver.stl",
+      "source_sha256": "551dc69d8e8e7e2be81866b5dfb0ff9f387da6f107f33cd79aa89c578de9bbab",
+      "sha256": "551dc69d8e8e7e2be81866b5dfb0ff9f387da6f107f33cd79aa89c578de9bbab"
+    },
+    {
+      "path": "hardware/cad/head-parts/stl/Gladiator_Head_v05_Neck_Clamp_Cap.stl",
+      "origin": "cad-repository",
+      "source": "cad/head/v05-sensor-mounts/stl/Gladiator_Head_v05_Neck_Clamp_Cap.stl",
+      "source_sha256": "8733ad1adf1c1c2a3ecb7d2a5a1a36334ffab1595a55405b744726bbafc7440d",
+      "sha256": "8733ad1adf1c1c2a3ecb7d2a5a1a36334ffab1595a55405b744726bbafc7440d"
+    },
+    {
+      "path": "hardware/cad/head-parts/stl/Gladiator_Head_v05_Neck_Main.stl",
+      "origin": "cad-repository",
+      "source": "cad/head/v05-sensor-mounts/stl/Gladiator_Head_v05_Neck_Main.stl",
+      "source_sha256": "4987b29237d29e346c7bea677e9dc56868ef90fbb529b7ece174ae960782d8b7",
+      "sha256": "4987b29237d29e346c7bea677e9dc56868ef90fbb529b7ece174ae960782d8b7"
+    },
+    {
+      "path": "hardware/cad/head-parts/stl/Gladiator_Head_v05_Pan_Drive_Pulley.stl",
+      "origin": "cad-repository",
+      "source": "cad/head/v05-sensor-mounts/stl/Gladiator_Head_v05_Pan_Drive_Pulley.stl",
+      "source_sha256": "9c9770cbcb5ea7a3597c84d477040edbf43f4ce2bbe69fe0114862d3eb6d3e8f",
+      "sha256": "9c9770cbcb5ea7a3597c84d477040edbf43f4ce2bbe69fe0114862d3eb6d3e8f"
+    },
+    {
+      "path": "hardware/cad/head-parts/stl/Gladiator_Head_v05_Pan_Raised_Pedestal.stl",
+      "origin": "cad-repository",
+      "source": "cad/head/v05-sensor-mounts/stl/Gladiator_Head_v05_Pan_Raised_Pedestal.stl",
+      "source_sha256": "c61b04174c3d45479ae18ba9ad4ea530835b3b8802d5329a941b1104c7651282",
+      "sha256": "c61b04174c3d45479ae18ba9ad4ea530835b3b8802d5329a941b1104c7651282"
+    },
+    {
+      "path": "hardware/cad/head-parts/stl/Gladiator_Head_v05_Pan_Retainer.stl",
+      "origin": "cad-repository",
+      "source": "cad/head/v05-sensor-mounts/stl/Gladiator_Head_v05_Pan_Retainer.stl",
+      "source_sha256": "93b939cb178eee3c219b8ce5d1c124c63c9f03fc85feb0e5eeffe7a128801a2d",
+      "sha256": "93b939cb178eee3c219b8ce5d1c124c63c9f03fc85feb0e5eeffe7a128801a2d"
+    },
+    {
+      "path": "hardware/cad/head-parts/stl/Gladiator_Head_v05_Pan_Rotor.stl",
+      "origin": "cad-repository",
+      "source": "cad/head/v05-sensor-mounts/stl/Gladiator_Head_v05_Pan_Rotor.stl",
+      "source_sha256": "983cc7609a625484f7bb1bc1afe272058d5910eed17fd298bd1d55d9c94cb8ad",
+      "sha256": "983cc7609a625484f7bb1bc1afe272058d5910eed17fd298bd1d55d9c94cb8ad"
+    },
+    {
+      "path": "hardware/cad/head-parts/stl/Gladiator_Head_v05_Pan_Servo_Carriage.stl",
+      "origin": "cad-repository",
+      "source": "cad/head/v05-sensor-mounts/stl/Gladiator_Head_v05_Pan_Servo_Carriage.stl",
+      "source_sha256": "0bbdf53a2b603fed8fa0d93bff0bb675312c9bb371d9950f089b341af40fc4fb",
+      "sha256": "0bbdf53a2b603fed8fa0d93bff0bb675312c9bb371d9950f089b341af40fc4fb"
+    },
+    {
+      "path": "hardware/cad/head-parts/stl/Gladiator_Head_v05_Radar_Sensor_Frame.stl",
+      "origin": "cad-repository",
+      "source": "cad/head/v05-sensor-mounts/stl/Gladiator_Head_v05_Radar_Sensor_Frame.stl",
+      "source_sha256": "2be423554e2b989b4e272d57e9dba99f4e775b4c72c90030eca5dc3b0f540df8",
+      "sha256": "2be423554e2b989b4e272d57e9dba99f4e775b4c72c90030eca5dc3b0f540df8"
+    },
+    {
+      "path": "hardware/cad/head-parts/stl/Gladiator_Head_v05_Rear_Display_Frame.stl",
+      "origin": "cad-repository",
+      "source": "cad/head/v05-sensor-mounts/stl/Gladiator_Head_v05_Rear_Display_Frame.stl",
+      "source_sha256": "c62bdc42fbfd3678aeb5577f1548806fa96139bd9ab4c8cc9cca3a88611c71a7",
+      "sha256": "c62bdc42fbfd3678aeb5577f1548806fa96139bd9ab4c8cc9cca3a88611c71a7"
+    },
+    {
+      "path": "hardware/cad/head-parts/stl/Gladiator_Head_v05_Tilt_Yoke.stl",
+      "origin": "cad-repository",
+      "source": "cad/head/v05-sensor-mounts/stl/Gladiator_Head_v05_Tilt_Yoke.stl",
+      "source_sha256": "7c809668e1a878c1003ce5c54aef8cbe90a26a7cc03edf616342ae1975745688",
+      "sha256": "7c809668e1a878c1003ce5c54aef8cbe90a26a7cc03edf616342ae1975745688"
+    },
+    {
+      "path": "hardware/cad/head-parts/stl/Gladiator_Head_v05_ToF_Sensor_Frame.stl",
+      "origin": "cad-repository",
+      "source": "cad/head/v05-sensor-mounts/stl/Gladiator_Head_v05_ToF_Sensor_Frame.stl",
+      "source_sha256": "afeeb1554574048782455bb543423272f71bf86fa288bb582d30564d2c55740a",
+      "sha256": "afeeb1554574048782455bb543423272f71bf86fa288bb582d30564d2c55740a"
+    },
+    {
+      "path": "hardware/cad/camera-mount/assembled.png",
+      "origin": "cad-repository",
+      "source": "cad/head/camera-service-v2-20261021/assembled.png",
+      "source_sha256": "2bf5e2a1733cee3265526636b5cd3b1419698203080a9ea4d7bfb7445cef806c",
+      "sha256": "2bf5e2a1733cee3265526636b5cd3b1419698203080a9ea4d7bfb7445cef806c"
+    },
+    {
+      "path": "hardware/cad/camera-mount/exploded.png",
+      "origin": "cad-repository",
+      "source": "cad/head/camera-service-v2-20261021/exploded.png",
+      "source_sha256": "15228eeee9bef19d4f3f36ba6a4a19255346315d23a47eb22376ab7afddfd7ff",
+      "sha256": "15228eeee9bef19d4f3f36ba6a4a19255346315d23a47eb22376ab7afddfd7ff"
+    },
+    {
+      "path": "hardware/cad/camera-mount/Gladiator_Camera_Service_v2.step",
+      "origin": "cad-repository",
+      "source": "cad/head/camera-service-v2-20261021/Gladiator_Camera_Service_v2.step",
+      "source_sha256": "ce3eb8c095d004b67d5fd20286623254c358d77bfc6e5b73d0fc351f444ceb59",
+      "sha256": "ce3eb8c095d004b67d5fd20286623254c358d77bfc6e5b73d0fc351f444ceb59"
+    },
+    {
+      "path": "hardware/cad/camera-mount/Gladiator_Camera_Service_v2_REVIEW.FCStd",
+      "origin": "cad-repository",
+      "source": "cad/head/camera-service-v2-20261021/Gladiator_Camera_Service_v2_REVIEW.FCStd",
+      "source_sha256": "04ae06937ce6fbf38f804bf20e2de569b3bce6417c995b35aee49c9a7c77dcfb",
+      "sha256": "04ae06937ce6fbf38f804bf20e2de569b3bce6417c995b35aee49c9a7c77dcfb"
+    },
+    {
+      "path": "hardware/cad/camera-mount/stl/Camera_Service_v2_Lid.stl",
+      "origin": "cad-repository",
+      "source": "cad/head/camera-service-v2-20261021/stl/Camera_Service_v2_Lid.stl",
+      "source_sha256": "ef633e4184a062c81482aa5ff1bea47c4b7f81046657dfc1949ef06e59333bd9",
+      "sha256": "ef633e4184a062c81482aa5ff1bea47c4b7f81046657dfc1949ef06e59333bd9"
+    },
+    {
+      "path": "hardware/cad/camera-mount/stl/Camera_Service_v2_Tray.stl",
+      "origin": "cad-repository",
+      "source": "cad/head/camera-service-v2-20261021/stl/Camera_Service_v2_Tray.stl",
+      "source_sha256": "012abba14aaddbfc432e0bcb29f8cc722d7b9556f41abd6524c80163fe447d41",
+      "sha256": "012abba14aaddbfc432e0bcb29f8cc722d7b9556f41abd6524c80163fe447d41"
+    },
+    {
+      "path": "hardware/cad/rails/arch_rails_v4_sections.png",
+      "origin": "cad-repository",
+      "source": "cad/v2/rails/v4-20261015/arch_rails_v4_sections.png",
+      "source_sha256": "ea4cfdc4fff2cc8b3ed491381b5d5a958977d28cb44704d67d98db02ea155d06",
+      "sha256": "ea4cfdc4fff2cc8b3ed491381b5d5a958977d28cb44704d67d98db02ea155d06"
+    },
+    {
+      "path": "hardware/cad/rails/Gladiator_Arch_Rail_Left_v4.stl",
+      "origin": "cad-repository",
+      "source": "cad/v2/rails/v4-20261015/Gladiator_Arch_Rail_Left_v4.stl",
+      "source_sha256": "c5e1a5bc69660d58d6dc6ab1e0dd6570b197a69fe105e83ee3e4c29fc2c926c6",
+      "sha256": "c5e1a5bc69660d58d6dc6ab1e0dd6570b197a69fe105e83ee3e4c29fc2c926c6"
+    },
+    {
+      "path": "hardware/cad/rails/Gladiator_Arch_Rail_Right_v4.stl",
+      "origin": "cad-repository",
+      "source": "cad/v2/rails/v4-20261015/Gladiator_Arch_Rail_Right_v4.stl",
+      "source_sha256": "033e10c3d82590abb9fe36ae675df9d56c3377a52661cb396b0aac0c274a41b8",
+      "sha256": "033e10c3d82590abb9fe36ae675df9d56c3377a52661cb396b0aac0c274a41b8"
+    },
+    {
+      "path": "hardware/cad/rails/Gladiator_ArchRails_v4.FCStd",
+      "origin": "cad-repository",
+      "source": "cad/v2/rails/v4-20261015/Gladiator_ArchRails_v4.FCStd",
+      "source_sha256": "79eb9e4fe706dabbdbd50a2cce646b6cfa99b9ba8d3b246ac12b44a8c6fea0e8",
+      "sha256": "79eb9e4fe706dabbdbd50a2cce646b6cfa99b9ba8d3b246ac12b44a8c6fea0e8"
+    },
+    {
+      "path": "hardware/cad/rails/Gladiator_ArchRails_v4.step",
+      "origin": "cad-repository",
+      "source": "cad/v2/rails/v4-20261015/Gladiator_ArchRails_v4.step",
+      "source_sha256": "77390c6cc6ade51c7a3329fefb5bd5ec3ad645be504c7d5e6a6a35c75f0d97d6",
+      "sha256": "77390c6cc6ade51c7a3329fefb5bd5ec3ad645be504c7d5e6a6a35c75f0d97d6"
+    },
+    {
+      "path": "hardware/cad/upper-deck/Gladiator_UpperDeck_v4.FCStd",
+      "origin": "cad-repository",
+      "source": "cad/v2/upper-deck/v4-20261016/Gladiator_UpperDeck_v4.FCStd",
+      "source_sha256": "d9f83a4510ecc41fb6c024f846092b7487c9d39508df0519e86e89fe71fc55ae",
+      "sha256": "d9f83a4510ecc41fb6c024f846092b7487c9d39508df0519e86e89fe71fc55ae"
+    },
+    {
+      "path": "hardware/cad/upper-deck/Gladiator_UpperDeck_v4.step",
+      "origin": "cad-repository",
+      "source": "cad/v2/upper-deck/v4-20261016/Gladiator_UpperDeck_v4.step",
+      "source_sha256": "d748649d34d4520f2eb373c51fc1d85288f233436dd5f916c2c6bff42cd508de",
+      "sha256": "d748649d34d4520f2eb373c51fc1d85288f233436dd5f916c2c6bff42cd508de"
+    },
+    {
+      "path": "hardware/cad/upper-deck/Gladiator_UpperDeck_v4.stl",
+      "origin": "cad-repository",
+      "source": "cad/v2/upper-deck/v4-20261016/Gladiator_UpperDeck_v4.stl",
+      "source_sha256": "ededd06e1400ea5d9315e8f2fc9400ea9fa0936650e41994a01964a034811bcf",
+      "sha256": "ededd06e1400ea5d9315e8f2fc9400ea9fa0936650e41994a01964a034811bcf"
+    },
+    {
+      "path": "hardware/cad/antenna-pylon/Gladiator_AntennaPylon_v3.FCStd",
+      "origin": "cad-repository",
+      "source": "cad/v2/antenna-pylon/v3-20261014/Gladiator_AntennaPylon_v3.FCStd",
+      "source_sha256": "462af3bdadc2337ba584d9ad0a2a5c7777679d6cb717d7aaaa05a947edcd7f04",
+      "sha256": "462af3bdadc2337ba584d9ad0a2a5c7777679d6cb717d7aaaa05a947edcd7f04"
+    },
+    {
+      "path": "hardware/cad/antenna-pylon/Gladiator_AntennaPylon_v3.step",
+      "origin": "cad-repository",
+      "source": "cad/v2/antenna-pylon/v3-20261014/Gladiator_AntennaPylon_v3.step",
+      "source_sha256": "108b0ffb07e5f552ae09a9ef35fb37c00453959be5c55580195f555f6e930df8",
+      "sha256": "108b0ffb07e5f552ae09a9ef35fb37c00453959be5c55580195f555f6e930df8"
+    },
+    {
+      "path": "hardware/cad/antenna-pylon/Gladiator_AntennaPylon_v3.stl",
+      "origin": "cad-repository",
+      "source": "cad/v2/antenna-pylon/v3-20261014/Gladiator_AntennaPylon_v3.stl",
+      "source_sha256": "3c230e1a3afca84d8f79db349fce9223e78cf8092945efed6669b793cdac95d4",
+      "sha256": "3c230e1a3afca84d8f79db349fce9223e78cf8092945efed6669b793cdac95d4"
+    },
+    {
+      "path": "hardware/cad/antenna-pylon/pylon_v3_sections.png",
+      "origin": "cad-repository",
+      "source": "cad/v2/antenna-pylon/v3-20261014/pylon_v3_sections.png",
+      "source_sha256": "498dd11aa4964265126fc463f9e48fa2d9da510dc8204c12317ac95276aee0d2",
+      "sha256": "498dd11aa4964265126fc463f9e48fa2d9da510dc8204c12317ac95276aee0d2"
+    },
+    {
+      "path": "hardware/cad/power-sensor-mount/Gladiator_INA_Mount_v3.FCStd",
+      "origin": "cad-repository",
+      "source": "cad/v2/ina-mount/v3-20261019/Gladiator_INA_Mount_v3.FCStd",
+      "source_sha256": "751801a8e58754b392c7e28ca31a1cdc0682a1b3beb1a1d956c14af3bf37412f",
+      "sha256": "751801a8e58754b392c7e28ca31a1cdc0682a1b3beb1a1d956c14af3bf37412f"
+    },
+    {
+      "path": "hardware/cad/power-sensor-mount/Gladiator_INA_Mount_v3.step",
+      "origin": "cad-repository",
+      "source": "cad/v2/ina-mount/v3-20261019/Gladiator_INA_Mount_v3.step",
+      "source_sha256": "f14c1ec521d74b84c222582039f54b14ddfdba7c6e1eae3053277cd93d321906",
+      "sha256": "f14c1ec521d74b84c222582039f54b14ddfdba7c6e1eae3053277cd93d321906"
+    },
+    {
+      "path": "hardware/cad/power-sensor-mount/Gladiator_INA_Mount_v3.stl",
+      "origin": "cad-repository",
+      "source": "cad/v2/ina-mount/v3-20261019/Gladiator_INA_Mount_v3.stl",
+      "source_sha256": "ef5c527b4894cb20362b2c586253ec433d10b0d424fceba72f09163b866f2773",
+      "sha256": "ef5c527b4894cb20362b2c586253ec433d10b0d424fceba72f09163b866f2773"
+    },
+    {
+      "path": "hardware/cad/switch-holder/Gladiator_SwitchHolder_v3.FCStd",
+      "origin": "cad-repository",
+      "source": "cad/v2/switch-enclosure/v3-20261016/Gladiator_SwitchHolder_v3.FCStd",
+      "source_sha256": "a71a02b9c8e96f71b20096bedb82a11b1088f75637aa7d97e630d92dcb137baf",
+      "sha256": "a71a02b9c8e96f71b20096bedb82a11b1088f75637aa7d97e630d92dcb137baf"
+    },
+    {
+      "path": "hardware/cad/switch-holder/Gladiator_SwitchHolder_v3.step",
+      "origin": "cad-repository",
+      "source": "cad/v2/switch-enclosure/v3-20261016/Gladiator_SwitchHolder_v3.step",
+      "source_sha256": "f20fcb9bcdfc07d4b481e317bd15754f1ac472ac895d04d50849ef5497f4040f",
+      "sha256": "f20fcb9bcdfc07d4b481e317bd15754f1ac472ac895d04d50849ef5497f4040f"
+    },
+    {
+      "path": "hardware/cad/switch-holder/Gladiator_SwitchHolder_v3.stl",
+      "origin": "cad-repository",
+      "source": "cad/v2/switch-enclosure/v3-20261016/Gladiator_SwitchHolder_v3.stl",
+      "source_sha256": "78ff4f4dd8d40c4d38ce515677c35a775848c1850b2469c3f526f2b4d513e0ca",
+      "sha256": "78ff4f4dd8d40c4d38ce515677c35a775848c1850b2469c3f526f2b4d513e0ca"
+    },
+    {
+      "path": "hardware/cad/speaker-mount/Gladiator_Speaker_Rail_Bracket_v1.FCStd",
+      "origin": "cad-repository",
+      "source": "cad/v2/speaker-mount/v1-20261020/Gladiator_Speaker_Rail_Bracket_v1.FCStd",
+      "source_sha256": "37ca4b941a18d554dcc9b51a85ea89e71b1d9643feac5130e844f7e84f837765",
+      "sha256": "37ca4b941a18d554dcc9b51a85ea89e71b1d9643feac5130e844f7e84f837765"
+    },
+    {
+      "path": "hardware/cad/speaker-mount/Gladiator_Speaker_Rail_Bracket_v1.step",
+      "origin": "cad-repository",
+      "source": "cad/v2/speaker-mount/v1-20261020/Gladiator_Speaker_Rail_Bracket_v1.step",
+      "source_sha256": "d8905e30b2a871bbb56892f0d0f0557f04fb08fdeafb3961881aae7b5c5d0df7",
+      "sha256": "d8905e30b2a871bbb56892f0d0f0557f04fb08fdeafb3961881aae7b5c5d0df7"
+    },
+    {
+      "path": "hardware/cad/speaker-mount/Gladiator_Speaker_Rail_Bracket_v1.stl",
+      "origin": "cad-repository",
+      "source": "cad/v2/speaker-mount/v1-20261020/Gladiator_Speaker_Rail_Bracket_v1.stl",
+      "source_sha256": "a75cec6353179edb3fea38aeb84bd55f6a9df98e486001702840c6d81e867713",
+      "sha256": "a75cec6353179edb3fea38aeb84bd55f6a9df98e486001702840c6d81e867713"
+    },
+    {
+      "path": "hardware/cad/motor-driver-mounts/DriverMount_v5.FCStd",
+      "origin": "cad-repository",
+      "source": "cad/drivers/v5-interlock/DriverMount_v5.FCStd",
+      "source_sha256": "12cdb74361003cb4148eaf7bffb4baab4ed74936ad17bc3fa724b67af1620e78",
+      "sha256": "12cdb74361003cb4148eaf7bffb4baab4ed74936ad17bc3fa724b67af1620e78"
+    },
+    {
+      "path": "hardware/cad/motor-driver-mounts/DriverMount_v5.step",
+      "origin": "cad-repository",
+      "source": "cad/drivers/v5-interlock/DriverMount_v5.step",
+      "source_sha256": "65e0d1f314f3e0d8e0801368456706297855139715a2ff059da74313d66bd183",
+      "sha256": "65e0d1f314f3e0d8e0801368456706297855139715a2ff059da74313d66bd183"
+    },
+    {
+      "path": "hardware/cad/motor-driver-mounts/stl/Base_Left.stl",
+      "origin": "cad-repository",
+      "source": "cad/drivers/v5-interlock/stl/Base_Left.stl",
+      "source_sha256": "dd5450932b4bc2c84fc8baa5800343b786c56da4de71c3c5d9f29fb5b1036be3",
+      "sha256": "dd5450932b4bc2c84fc8baa5800343b786c56da4de71c3c5d9f29fb5b1036be3"
+    },
+    {
+      "path": "hardware/cad/motor-driver-mounts/stl/Wedge_Left.stl",
+      "origin": "cad-repository",
+      "source": "cad/drivers/v5-interlock/stl/Wedge_Left.stl",
+      "source_sha256": "eeb7b0f2f3d1535014aacc79db6cc882986e25c9243a9b61a8dbc537e828174a",
+      "sha256": "eeb7b0f2f3d1535014aacc79db6cc882986e25c9243a9b61a8dbc537e828174a"
+    },
+    {
+      "path": "hardware/cad/power-tray/PowerBoardTray_v5.FCStd",
+      "origin": "cad-repository",
+      "source": "cad/power-board/v5-tray/PowerBoardTray_v5.FCStd",
+      "source_sha256": "8a730c7b30d6d7fcb288678029031a8fddbb5bf65a54454e914b5251db7089d4",
+      "sha256": "8a730c7b30d6d7fcb288678029031a8fddbb5bf65a54454e914b5251db7089d4"
+    },
+    {
+      "path": "hardware/cad/power-tray/PowerBoardTray_v5.step",
+      "origin": "cad-repository",
+      "source": "cad/power-board/v5-tray/PowerBoardTray_v5.step",
+      "source_sha256": "f50fdf6e3d2ef612b10b7d5269aadc4366903f7f1338a0953d986e81229bf1be",
+      "sha256": "f50fdf6e3d2ef612b10b7d5269aadc4366903f7f1338a0953d986e81229bf1be"
+    },
+    {
+      "path": "hardware/cad/power-tray/stl/Gladiator_PowerTray_v5_BaseLeft_print-tab-down.stl",
+      "origin": "cad-repository",
+      "source": "cad/power-board/v5-tray/stl/Gladiator_PowerTray_v5_BaseLeft_print-tab-down.stl",
+      "source_sha256": "250a2b7527eea3f67bf5bfd0984c7ffd4161fee8804321a5e9e30cc28903e885",
+      "sha256": "250a2b7527eea3f67bf5bfd0984c7ffd4161fee8804321a5e9e30cc28903e885"
+    },
+    {
+      "path": "hardware/cad/power-tray/stl/Gladiator_PowerTray_v5_BaseRight_print-tab-down.stl",
+      "origin": "cad-repository",
+      "source": "cad/power-board/v5-tray/stl/Gladiator_PowerTray_v5_BaseRight_print-tab-down.stl",
+      "source_sha256": "f032634b2fe2037dec5f1aac830ce74cc430f9ecbdf91845657eefc054281356",
+      "sha256": "f032634b2fe2037dec5f1aac830ce74cc430f9ecbdf91845657eefc054281356"
+    },
+    {
+      "path": "hardware/cad/power-tray/stl/Gladiator_PowerTray_v5_FitCoupon_base-and-peg.stl",
+      "origin": "cad-repository",
+      "source": "cad/power-board/v5-tray/stl/Gladiator_PowerTray_v5_FitCoupon_base-and-peg.stl",
+      "source_sha256": "50d13e17712ea6b0bfde2a0299ad456a5dee511a0c21cda5ddc1bfc235341188",
+      "sha256": "50d13e17712ea6b0bfde2a0299ad456a5dee511a0c21cda5ddc1bfc235341188"
+    },
+    {
+      "path": "hardware/cad/power-tray/stl/Gladiator_PowerTray_v5_print-on-rear-face.stl",
+      "origin": "cad-repository",
+      "source": "cad/power-board/v5-tray/stl/Gladiator_PowerTray_v5_print-on-rear-face.stl",
+      "source_sha256": "6deece79a45cf9c221d72434ed9e049ace8d6aaae62764b09deb35e260a49b36",
+      "sha256": "6deece79a45cf9c221d72434ed9e049ace8d6aaae62764b09deb35e260a49b36"
+    },
+    {
+      "path": "hardware/cad/power-tray/stl/PowerBoardTray_v5_installed.stl",
+      "origin": "cad-repository",
+      "source": "cad/power-board/v5-tray/stl/PowerBoardTray_v5_installed.stl",
+      "source_sha256": "a5e13ab29cd342afdd02264c835956bc41e471553d6623d7faf20aef35ee1152",
+      "sha256": "a5e13ab29cd342afdd02264c835956bc41e471553d6623d7faf20aef35ee1152"
+    },
+    {
+      "path": "hardware/cad/mast-base/Gladiator_MastBase_spigot-3p5_chamfer-0p8_UP.stl",
+      "origin": "cad-repository",
+      "source": "cad/mast-base/reprint-20260926/Gladiator_MastBase_spigot-3p5_chamfer-0p8_UP.stl",
+      "source_sha256": "65000a169a4b3c2e56b815a98553586dc86b1ed8fbd4086a9debb906d7d9cd93",
+      "sha256": "65000a169a4b3c2e56b815a98553586dc86b1ed8fbd4086a9debb906d7d9cd93"
+    },
+    {
+      "path": "hardware/cad/mast-base/Gladiator_Master_MastBase_short-spigot.FCStd",
+      "origin": "cad-repository",
+      "source": "cad/mast-base/reprint-20260926/Gladiator_Master_MastBase_short-spigot.FCStd",
+      "source_sha256": "4f5515436d4626f62d0d4f9d2bf488a17e340e1ab346a4829242d4b3785905e9",
+      "sha256": "4f5515436d4626f62d0d4f9d2bf488a17e340e1ab346a4829242d4b3785905e9"
+    },
+    {
+      "path": "hardware/cad/mast-tube/Gladiator_MastTube_v2-Z130_print-vertical.stl",
+      "origin": "cad-repository",
+      "source": "cad/build2-20260927/Gladiator_MastTube_v2-Z130_print-vertical.stl",
+      "source_sha256": "a45ad0cdc07391a377d7dd2b76d1a14a334618d26bdf5055b974d86f9de840f3",
+      "sha256": "a45ad0cdc07391a377d7dd2b76d1a14a334618d26bdf5055b974d86f9de840f3"
+    },
+    {
+      "path": "hardware/cad/body-shell/Gladiator_Round5_Print.FCStd",
+      "origin": "cad-repository",
+      "source": "cad/v2/enclosure/round5-calibrated-28-20261022/mount-checked-release/DELIVERY/CAD/Gladiator_Round5_Print.FCStd",
+      "source_sha256": "c8de2fe9b0dfb436746b8ce243103cfc60f7a28640f48503b77e2890381a0d32",
+      "sha256": "c8de2fe9b0dfb436746b8ce243103cfc60f7a28640f48503b77e2890381a0d32"
+    },
+    {
+      "path": "hardware/cad/body-shell/Gladiator_Round5_PrintParts.step",
+      "origin": "cad-repository",
+      "source": "cad/v2/enclosure/round5-calibrated-28-20261022/mount-checked-release/DELIVERY/CAD/Gladiator_Round5_PrintParts.step",
+      "source_sha256": "b157fb9df2f8156099a19d74da3e4ce11b74f1dc5f076854cd8371a6c2601f4b",
+      "sha256": "b157fb9df2f8156099a19d74da3e4ce11b74f1dc5f076854cd8371a6c2601f4b"
+    },
+    {
+      "path": "hardware/cad/body-shell/stl/Aquila_Relief.stl",
+      "origin": "cad-repository",
+      "source": "cad/v2/enclosure/round5-calibrated-28-20261022/mount-checked-release/DELIVERY/CAD/stl/Aquila_Relief.stl",
+      "source_sha256": "d62ac1fa794629870e820a200d894f74b5a175053580a9b3b26b27db9ce53af7",
+      "sha256": "d62ac1fa794629870e820a200d894f74b5a175053580a9b3b26b27db9ce53af7"
+    },
+    {
+      "path": "hardware/cad/body-shell/stl/Crest_Clamp.stl",
+      "origin": "cad-repository",
+      "source": "cad/v2/enclosure/round5-calibrated-28-20261022/mount-checked-release/DELIVERY/CAD/stl/Crest_Clamp.stl",
+      "source_sha256": "04c05c4f364728921c9542c9ae7cc6f08c437f20f43ad085a104c908044ee556",
+      "sha256": "04c05c4f364728921c9542c9ae7cc6f08c437f20f43ad085a104c908044ee556"
+    },
+    {
+      "path": "hardware/cad/body-shell/stl/Crest_Clamp_Shoe.stl",
+      "origin": "cad-repository",
+      "source": "cad/v2/enclosure/round5-calibrated-28-20261022/mount-checked-release/DELIVERY/CAD/stl/Crest_Clamp_Shoe.stl",
+      "source_sha256": "4689773278eff642b3b054193fbe368ef1fa2e73d62edfd7402dc44cf6ecdb4c",
+      "sha256": "4689773278eff642b3b054193fbe368ef1fa2e73d62edfd7402dc44cf6ecdb4c"
+    },
+    {
+      "path": "hardware/cad/body-shell/stl/Crest_Holder_Trim.stl",
+      "origin": "cad-repository",
+      "source": "cad/v2/enclosure/round5-calibrated-28-20261022/mount-checked-release/DELIVERY/CAD/stl/Crest_Holder_Trim.stl",
+      "source_sha256": "8d1e9399d159461b49cefeca1e79d34d906fd09c1d414969cfb549a08330f32f",
+      "sha256": "8d1e9399d159461b49cefeca1e79d34d906fd09c1d414969cfb549a08330f32f"
+    },
+    {
+      "path": "hardware/cad/body-shell/stl/Front_Left.stl",
+      "origin": "cad-repository",
+      "source": "cad/v2/enclosure/round5-calibrated-28-20261022/mount-checked-release/DELIVERY/CAD/stl/Front_Left.stl",
+      "source_sha256": "6c23985dda6edc39ad75cd722ce20a6eb586976080e4ba8c7c0e63140026de21",
+      "sha256": "6c23985dda6edc39ad75cd722ce20a6eb586976080e4ba8c7c0e63140026de21"
+    },
+    {
+      "path": "hardware/cad/body-shell/stl/Front_Right.stl",
+      "origin": "cad-repository",
+      "source": "cad/v2/enclosure/round5-calibrated-28-20261022/mount-checked-release/DELIVERY/CAD/stl/Front_Right.stl",
+      "source_sha256": "6598a8d4c42e4f298c354958a4c1fa83382c19f3db0761a2ec0a0c8ca5fa1666",
+      "sha256": "6598a8d4c42e4f298c354958a4c1fa83382c19f3db0761a2ec0a0c8ca5fa1666"
+    },
+    {
+      "path": "hardware/cad/body-shell/stl/Galea_Crest.stl",
+      "origin": "cad-repository",
+      "source": "cad/v2/enclosure/round5-calibrated-28-20261022/mount-checked-release/DELIVERY/CAD/stl/Galea_Crest.stl",
+      "source_sha256": "98790ae4f0ffbf7125bbf23ca91939b8d18c181d3639ddc3e919ed84b9d9fc34",
+      "sha256": "98790ae4f0ffbf7125bbf23ca91939b8d18c181d3639ddc3e919ed84b9d9fc34"
+    },
+    {
+      "path": "hardware/cad/body-shell/stl/Lens_Plate.stl",
+      "origin": "cad-repository",
+      "source": "cad/v2/enclosure/round5-calibrated-28-20261022/mount-checked-release/DELIVERY/CAD/stl/Lens_Plate.stl",
+      "source_sha256": "d4974cf3ea1f19a2de81b778ad6688c668337232d87e374b714711b7322f2c4b",
+      "sha256": "d4974cf3ea1f19a2de81b778ad6688c668337232d87e374b714711b7322f2c4b"
+    },
+    {
+      "path": "hardware/cad/body-shell/stl/Neck_Clamp_0.stl",
+      "origin": "cad-repository",
+      "source": "cad/v2/enclosure/round5-calibrated-28-20261022/mount-checked-release/DELIVERY/CAD/stl/Neck_Clamp_0.stl",
+      "source_sha256": "6fb35dba75d8fb341b11c9a95df43f64ecf126032fc5f698d9a43ee332c07fec",
+      "sha256": "6fb35dba75d8fb341b11c9a95df43f64ecf126032fc5f698d9a43ee332c07fec"
+    },
+    {
+      "path": "hardware/cad/body-shell/stl/Neck_Clamp_1.stl",
+      "origin": "cad-repository",
+      "source": "cad/v2/enclosure/round5-calibrated-28-20261022/mount-checked-release/DELIVERY/CAD/stl/Neck_Clamp_1.stl",
+      "source_sha256": "ea832b1fb1ee7ff8a3d14e4462c5e4e5f147adf455efe7947a1bdf7d86d4355b",
+      "sha256": "ea832b1fb1ee7ff8a3d14e4462c5e4e5f147adf455efe7947a1bdf7d86d4355b"
+    },
+    {
+      "path": "hardware/cad/body-shell/stl/Neck_Clamp_Shoe_21_5.stl",
+      "origin": "cad-repository",
+      "source": "cad/v2/enclosure/round5-calibrated-28-20261022/mount-checked-release/DELIVERY/CAD/stl/Neck_Clamp_Shoe_21_5.stl",
+      "source_sha256": "9a9d4a71350ba6db78b2c3ecbfcb4377b0a49aa715e16e6f64d5811eb684d90a",
+      "sha256": "9a9d4a71350ba6db78b2c3ecbfcb4377b0a49aa715e16e6f64d5811eb684d90a"
+    },
+    {
+      "path": "hardware/cad/body-shell/stl/Neck_Clamp_Shoe_57_5.stl",
+      "origin": "cad-repository",
+      "source": "cad/v2/enclosure/round5-calibrated-28-20261022/mount-checked-release/DELIVERY/CAD/stl/Neck_Clamp_Shoe_57_5.stl",
+      "source_sha256": "9a9d4a71350ba6db78b2c3ecbfcb4377b0a49aa715e16e6f64d5811eb684d90a",
+      "sha256": "9a9d4a71350ba6db78b2c3ecbfcb4377b0a49aa715e16e6f64d5811eb684d90a"
+    },
+    {
+      "path": "hardware/cad/body-shell/stl/Neck_Guard.stl",
+      "origin": "cad-repository",
+      "source": "cad/v2/enclosure/round5-calibrated-28-20261022/mount-checked-release/DELIVERY/CAD/stl/Neck_Guard.stl",
+      "source_sha256": "d61b9ab3735db056e74e7666b5efba81151f2566546900cbfc42ce7ab9e70985",
+      "sha256": "d61b9ab3735db056e74e7666b5efba81151f2566546900cbfc42ce7ab9e70985"
+    },
+    {
+      "path": "hardware/cad/body-shell/stl/Rear_Hood.stl",
+      "origin": "cad-repository",
+      "source": "cad/v2/enclosure/round5-calibrated-28-20261022/mount-checked-release/DELIVERY/CAD/stl/Rear_Hood.stl",
+      "source_sha256": "9f3dc94b2eadf46d5d20375655448afdddd4cd9da3997c61f4ba7395e1d295a0",
+      "sha256": "9f3dc94b2eadf46d5d20375655448afdddd4cd9da3997c61f4ba7395e1d295a0"
+    },
+    {
+      "path": "hardware/cad/body-shell/stl/Scutum_Boss_L.stl",
+      "origin": "cad-repository",
+      "source": "cad/v2/enclosure/round5-calibrated-28-20261022/mount-checked-release/DELIVERY/CAD/stl/Scutum_Boss_L.stl",
+      "source_sha256": "b7f87e10945351b315827800e06ef5ad6ed027f6f78d25d480feffcf2efb022b",
+      "sha256": "b7f87e10945351b315827800e06ef5ad6ed027f6f78d25d480feffcf2efb022b"
+    },
+    {
+      "path": "hardware/cad/body-shell/stl/Scutum_Boss_R.stl",
+      "origin": "cad-repository",
+      "source": "cad/v2/enclosure/round5-calibrated-28-20261022/mount-checked-release/DELIVERY/CAD/stl/Scutum_Boss_R.stl",
+      "source_sha256": "b7f87e10945351b315827800e06ef5ad6ed027f6f78d25d480feffcf2efb022b",
+      "sha256": "b7f87e10945351b315827800e06ef5ad6ed027f6f78d25d480feffcf2efb022b"
+    },
+    {
+      "path": "hardware/cad/body-shell/stl/Scutum_Emblem_L.stl",
+      "origin": "cad-repository",
+      "source": "cad/v2/enclosure/round5-calibrated-28-20261022/mount-checked-release/DELIVERY/CAD/stl/Scutum_Emblem_L.stl",
+      "source_sha256": "5d2a72dc8c8188f0eff8f81ecc5d119dec1ad733ee5a9db7c77907480503b9fa",
+      "sha256": "5d2a72dc8c8188f0eff8f81ecc5d119dec1ad733ee5a9db7c77907480503b9fa"
+    },
+    {
+      "path": "hardware/cad/body-shell/stl/Scutum_Emblem_R.stl",
+      "origin": "cad-repository",
+      "source": "cad/v2/enclosure/round5-calibrated-28-20261022/mount-checked-release/DELIVERY/CAD/stl/Scutum_Emblem_R.stl",
+      "source_sha256": "5d2a72dc8c8188f0eff8f81ecc5d119dec1ad733ee5a9db7c77907480503b9fa",
+      "sha256": "5d2a72dc8c8188f0eff8f81ecc5d119dec1ad733ee5a9db7c77907480503b9fa"
+    },
+    {
+      "path": "hardware/cad/body-shell/stl/Scutum_Field_L.stl",
+      "origin": "cad-repository",
+      "source": "cad/v2/enclosure/round5-calibrated-28-20261022/mount-checked-release/DELIVERY/CAD/stl/Scutum_Field_L.stl",
+      "source_sha256": "6bd61cfd11eafef24ce27a99dc2e72339dc130354339e5a1ada3164abf90c74a",
+      "sha256": "6bd61cfd11eafef24ce27a99dc2e72339dc130354339e5a1ada3164abf90c74a"
+    },
+    {
+      "path": "hardware/cad/body-shell/stl/Scutum_Field_R.stl",
+      "origin": "cad-repository",
+      "source": "cad/v2/enclosure/round5-calibrated-28-20261022/mount-checked-release/DELIVERY/CAD/stl/Scutum_Field_R.stl",
+      "source_sha256": "6bd61cfd11eafef24ce27a99dc2e72339dc130354339e5a1ada3164abf90c74a",
+      "sha256": "6bd61cfd11eafef24ce27a99dc2e72339dc130354339e5a1ada3164abf90c74a"
+    },
+    {
+      "path": "hardware/cad/body-shell/stl/Tablet_L.stl",
+      "origin": "cad-repository",
+      "source": "cad/v2/enclosure/round5-calibrated-28-20261022/mount-checked-release/DELIVERY/CAD/stl/Tablet_L.stl",
+      "source_sha256": "5b66f1cd2b2b25fabfab5f95972f0c5de9038820f2c1b250c1e22e988569439d",
+      "sha256": "5b66f1cd2b2b25fabfab5f95972f0c5de9038820f2c1b250c1e22e988569439d"
+    },
+    {
+      "path": "hardware/cad/body-shell/stl/Tablet_R.stl",
+      "origin": "cad-repository",
+      "source": "cad/v2/enclosure/round5-calibrated-28-20261022/mount-checked-release/DELIVERY/CAD/stl/Tablet_R.stl",
+      "source_sha256": "5b66f1cd2b2b25fabfab5f95972f0c5de9038820f2c1b250c1e22e988569439d",
+      "sha256": "5b66f1cd2b2b25fabfab5f95972f0c5de9038820f2c1b250c1e22e988569439d"
+    },
+    {
+      "path": "hardware/cad/shield-emblems/Emblem_Cradle.stl",
+      "origin": "cad-repository",
+      "source": "cad/v2/enclosure/round5-print-20261022/emblem-v2/Emblem_Cradle.stl",
+      "source_sha256": "ee4182a7608c067680fb5d7be1820bedfad278ee6181248372a49d6e21253eb9",
+      "sha256": "ee4182a7608c067680fb5d7be1820bedfad278ee6181248372a49d6e21253eb9"
+    },
+    {
+      "path": "hardware/cad/shield-emblems/emblem_old_right_v2_left.png",
+      "origin": "cad-repository",
+      "source": "cad/v2/enclosure/round5-print-20261022/emblem-v2/emblem_old_right_v2_left.png",
+      "source_sha256": "34e08bd285455551c5b5a446a51315ab7752f210e6432b3a35e612876d985846",
+      "sha256": "34e08bd285455551c5b5a446a51315ab7752f210e6432b3a35e612876d985846"
+    },
+    {
+      "path": "hardware/cad/shield-emblems/Scutum_Emblem_v2.FCStd",
+      "origin": "cad-repository",
+      "source": "cad/v2/enclosure/round5-print-20261022/emblem-v2/Scutum_Emblem_v2.FCStd",
+      "source_sha256": "ab625bef67aaa075b97fb8cb73ebb87e279bdf9805dd87d247c52eee667284ed",
+      "sha256": "ab625bef67aaa075b97fb8cb73ebb87e279bdf9805dd87d247c52eee667284ed"
+    },
+    {
+      "path": "hardware/cad/shield-emblems/Scutum_Emblem_v2.stl",
+      "origin": "cad-repository",
+      "source": "cad/v2/enclosure/round5-print-20261022/emblem-v2/Scutum_Emblem_v2.stl",
+      "source_sha256": "5d2a72dc8c8188f0eff8f81ecc5d119dec1ad733ee5a9db7c77907480503b9fa",
+      "sha256": "5d2a72dc8c8188f0eff8f81ecc5d119dec1ad733ee5a9db7c77907480503b9fa"
+    },
+    {
+      "path": "hardware/cad/insert-fit-coupon/M2_D3_L3_Coupon.FCStd",
+      "origin": "cad-repository",
+      "source": "cad/coupons/m2-d3-l3-mini-20261022/M2_D3_L3_Coupon.FCStd",
+      "source_sha256": "cef312d5d52b6c990325242352144b183aefa7e3b4992d962311271f9987bb5c",
+      "sha256": "cef312d5d52b6c990325242352144b183aefa7e3b4992d962311271f9987bb5c"
+    },
+    {
+      "path": "hardware/cad/insert-fit-coupon/M2_D3_L3_Coupon.step",
+      "origin": "cad-repository",
+      "source": "cad/coupons/m2-d3-l3-mini-20261022/M2_D3_L3_Coupon.step",
+      "source_sha256": "20b6dff4ead9bff353122ed8a77bc8cb43131964f247735e83cfe6ccd6407900",
+      "sha256": "20b6dff4ead9bff353122ed8a77bc8cb43131964f247735e83cfe6ccd6407900"
+    },
+    {
+      "path": "hardware/cad/insert-fit-coupon/M2_D3_L3_Coupon.stl",
+      "origin": "cad-repository",
+      "source": "cad/coupons/m2-d3-l3-mini-20261022/M2_D3_L3_Coupon.stl",
+      "source_sha256": "499cd78d93a824d7fee9eb291d49f66904feadd5be6f39f38e9de5b75c24929b",
+      "sha256": "499cd78d93a824d7fee9eb291d49f66904feadd5be6f39f38e9de5b75c24929b"
+    },
+    {
+      "path": "firmware/gateway/sdkconfig.defaults",
+      "origin": "canonical-firmware",
+      "source": "gateway/sdkconfig.defaults",
+      "source_sha256": "c2f0c0d442ff1f1d535b1791d4d8daabd8314a1929c8788ca03c82d23b5d9128",
+      "sha256": "c2f0c0d442ff1f1d535b1791d4d8daabd8314a1929c8788ca03c82d23b5d9128"
+    }
+  ]
+}

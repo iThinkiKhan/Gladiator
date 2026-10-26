@@ -1,0 +1,37 @@
+# Build output and third-party dependencies
+**/.pio/
+**/managed_components/
+**/node_modules/
+**/__pycache__/
+*.py[cod]
+.build/
+**/diagnostics/
+**/.runtime/
+**/evidence/
+# Credentials, local configuration, recovery images
+.env
+.env.*
+!.env.example
+**/secrets.h
+**/LocalConfig.h
+**/platformio_local.ini
+**/sdkconfig.gladiator_c6
+**/sdkconfig.gladiator_c6.old
+*.pem
+*.key
+*.bin
+*.exe
+*.o
+# Generated gateway web bundles
+firmware/gateway/src/BoothAssets.h
+firmware/gateway/src/HardwareTestAssets.h
+# CAD backups, slicer projects and machine-specific toolpaths
+*.FCBak
+*.FCStd1
+*.FCStd2
+*.gcode
+*.gcode.*
+*.3mf
+*.zip
+.DS_Store
+Thumbs.db

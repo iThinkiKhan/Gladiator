@@ -1,0 +1,11 @@
+category,part,quantity,specification,notes
+controller,ESP32-S3,1,N16R8; 16 MB flash / 8 MB PSRAM,See firmware platformio.ini
+communications,Seeed XIAO ESP32-C6,1,External antenna,C6 gateway
+camera,AI-Thinker ESP32-CAM,1,OV2640,Camera and display firmware
+motor-driver,BTS7960,2,One per track,See source BoardConfig.h
+power-monitor,INA226,1,0.002 ohm shunt,See source BoardConfig.h
+imu,BNO085,1,I2C,See source sensor driver
+display,ST7789,1,170 x 320 pixels,Configured dimensions; confirm module
+range-sensor,SEN0628,1,8 x 8 ToF,Driver included; installation status needs author notes
+presence-sensor,SEN0610 C4001,1,Radar,Driver included; installation status needs author notes
+mast-servo,SG90,2,Pan and tilt,Hardware fit and limits are installation specific

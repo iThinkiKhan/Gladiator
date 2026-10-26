@@ -1,0 +1,95 @@
+component,file,format,revision_note,path
+chassis,Gladiator_Master.FCStd,fcstd,Reference assembly; embedded early head is historical,hardware/cad/chassis/Gladiator_Master.FCStd
+chassis,Gladiator_Master.step,step,Reference assembly; embedded early head is historical,hardware/cad/chassis/Gladiator_Master.step
+head-assembly,Gladiator_Head_Master.FCStd,fcstd,Viewing assembly; source head prototype v05,hardware/cad/head-assembly/Gladiator_Head_Master.FCStd
+head-assembly,Gladiator_Head_Master.step,step,Viewing assembly; source head prototype v05,hardware/cad/head-assembly/Gladiator_Head_Master.step
+head-assembly,preview-front.png,png,Viewing assembly; source head prototype v05,hardware/cad/head-assembly/preview-front.png
+head-assembly,preview-iso.png,png,Viewing assembly; source head prototype v05,hardware/cad/head-assembly/preview-iso.png
+head-parts,Gladiator_Head_v05_PanStack.FCStd,fcstd,Sensor-mount revision,hardware/cad/head-parts/Gladiator_Head_v05_PanStack.FCStd
+head-parts,Gladiator_Head_v05_PanStack.step,step,Sensor-mount revision,hardware/cad/head-parts/Gladiator_Head_v05_PanStack.step
+head-parts,sensor-mounts.png,png,Sensor-mount revision,hardware/cad/head-parts/sensor-mounts.png
+head-parts,Gladiator_Head_v05_GH44_Dual_Carrier.stl,stl,Sensor-mount revision,hardware/cad/head-parts/stl/Gladiator_Head_v05_GH44_Dual_Carrier.stl
+head-parts,Gladiator_Head_v05_GH44_Tilt_Receiver.stl,stl,Sensor-mount revision,hardware/cad/head-parts/stl/Gladiator_Head_v05_GH44_Tilt_Receiver.stl
+head-parts,Gladiator_Head_v05_Neck_Clamp_Cap.stl,stl,Sensor-mount revision,hardware/cad/head-parts/stl/Gladiator_Head_v05_Neck_Clamp_Cap.stl
+head-parts,Gladiator_Head_v05_Neck_Main.stl,stl,Sensor-mount revision,hardware/cad/head-parts/stl/Gladiator_Head_v05_Neck_Main.stl
+head-parts,Gladiator_Head_v05_Pan_Drive_Pulley.stl,stl,Sensor-mount revision,hardware/cad/head-parts/stl/Gladiator_Head_v05_Pan_Drive_Pulley.stl
+head-parts,Gladiator_Head_v05_Pan_Raised_Pedestal.stl,stl,Sensor-mount revision,hardware/cad/head-parts/stl/Gladiator_Head_v05_Pan_Raised_Pedestal.stl
+head-parts,Gladiator_Head_v05_Pan_Retainer.stl,stl,Sensor-mount revision,hardware/cad/head-parts/stl/Gladiator_Head_v05_Pan_Retainer.stl
+head-parts,Gladiator_Head_v05_Pan_Rotor.stl,stl,Sensor-mount revision,hardware/cad/head-parts/stl/Gladiator_Head_v05_Pan_Rotor.stl
+head-parts,Gladiator_Head_v05_Pan_Servo_Carriage.stl,stl,Sensor-mount revision,hardware/cad/head-parts/stl/Gladiator_Head_v05_Pan_Servo_Carriage.stl
+head-parts,Gladiator_Head_v05_Radar_Sensor_Frame.stl,stl,Sensor-mount revision,hardware/cad/head-parts/stl/Gladiator_Head_v05_Radar_Sensor_Frame.stl
+head-parts,Gladiator_Head_v05_Rear_Display_Frame.stl,stl,Sensor-mount revision,hardware/cad/head-parts/stl/Gladiator_Head_v05_Rear_Display_Frame.stl
+head-parts,Gladiator_Head_v05_Tilt_Yoke.stl,stl,Sensor-mount revision,hardware/cad/head-parts/stl/Gladiator_Head_v05_Tilt_Yoke.stl
+head-parts,Gladiator_Head_v05_ToF_Sensor_Frame.stl,stl,Sensor-mount revision,hardware/cad/head-parts/stl/Gladiator_Head_v05_ToF_Sensor_Frame.stl
+camera-mount,assembled.png,png,Review assembly and printable tray/lid,hardware/cad/camera-mount/assembled.png
+camera-mount,exploded.png,png,Review assembly and printable tray/lid,hardware/cad/camera-mount/exploded.png
+camera-mount,Gladiator_Camera_Service_v2.step,step,Review assembly and printable tray/lid,hardware/cad/camera-mount/Gladiator_Camera_Service_v2.step
+camera-mount,Gladiator_Camera_Service_v2_REVIEW.FCStd,fcstd,Review assembly and printable tray/lid,hardware/cad/camera-mount/Gladiator_Camera_Service_v2_REVIEW.FCStd
+camera-mount,Camera_Service_v2_Lid.stl,stl,Review assembly and printable tray/lid,hardware/cad/camera-mount/stl/Camera_Service_v2_Lid.stl
+camera-mount,Camera_Service_v2_Tray.stl,stl,Review assembly and printable tray/lid,hardware/cad/camera-mount/stl/Camera_Service_v2_Tray.stl
+rails,arch_rails_v4_sections.png,png,Selected arch rail revision,hardware/cad/rails/arch_rails_v4_sections.png
+rails,Gladiator_Arch_Rail_Left_v4.stl,stl,Selected arch rail revision,hardware/cad/rails/Gladiator_Arch_Rail_Left_v4.stl
+rails,Gladiator_Arch_Rail_Right_v4.stl,stl,Selected arch rail revision,hardware/cad/rails/Gladiator_Arch_Rail_Right_v4.stl
+rails,Gladiator_ArchRails_v4.FCStd,fcstd,Selected arch rail revision,hardware/cad/rails/Gladiator_ArchRails_v4.FCStd
+rails,Gladiator_ArchRails_v4.step,step,Selected arch rail revision,hardware/cad/rails/Gladiator_ArchRails_v4.step
+upper-deck,Gladiator_UpperDeck_v4.FCStd,fcstd,Measured rail fit revision,hardware/cad/upper-deck/Gladiator_UpperDeck_v4.FCStd
+upper-deck,Gladiator_UpperDeck_v4.step,step,Measured rail fit revision,hardware/cad/upper-deck/Gladiator_UpperDeck_v4.step
+upper-deck,Gladiator_UpperDeck_v4.stl,stl,Measured rail fit revision,hardware/cad/upper-deck/Gladiator_UpperDeck_v4.stl
+antenna-pylon,Gladiator_AntennaPylon_v3.FCStd,fcstd,Selected pylon revision,hardware/cad/antenna-pylon/Gladiator_AntennaPylon_v3.FCStd
+antenna-pylon,Gladiator_AntennaPylon_v3.step,step,Selected pylon revision,hardware/cad/antenna-pylon/Gladiator_AntennaPylon_v3.step
+antenna-pylon,Gladiator_AntennaPylon_v3.stl,stl,Selected pylon revision,hardware/cad/antenna-pylon/Gladiator_AntennaPylon_v3.stl
+antenna-pylon,pylon_v3_sections.png,png,Selected pylon revision,hardware/cad/antenna-pylon/pylon_v3_sections.png
+power-sensor-mount,Gladiator_INA_Mount_v3.FCStd,fcstd,Selected upright adapter,hardware/cad/power-sensor-mount/Gladiator_INA_Mount_v3.FCStd
+power-sensor-mount,Gladiator_INA_Mount_v3.step,step,Selected upright adapter,hardware/cad/power-sensor-mount/Gladiator_INA_Mount_v3.step
+power-sensor-mount,Gladiator_INA_Mount_v3.stl,stl,Selected upright adapter,hardware/cad/power-sensor-mount/Gladiator_INA_Mount_v3.stl
+switch-holder,Gladiator_SwitchHolder_v3.FCStd,fcstd,Selected rear-open holder,hardware/cad/switch-holder/Gladiator_SwitchHolder_v3.FCStd
+switch-holder,Gladiator_SwitchHolder_v3.step,step,Selected rear-open holder,hardware/cad/switch-holder/Gladiator_SwitchHolder_v3.step
+switch-holder,Gladiator_SwitchHolder_v3.stl,stl,Selected rear-open holder,hardware/cad/switch-holder/Gladiator_SwitchHolder_v3.stl
+speaker-mount,Gladiator_Speaker_Rail_Bracket_v1.FCStd,fcstd,Selected bracket revision,hardware/cad/speaker-mount/Gladiator_Speaker_Rail_Bracket_v1.FCStd
+speaker-mount,Gladiator_Speaker_Rail_Bracket_v1.step,step,Selected bracket revision,hardware/cad/speaker-mount/Gladiator_Speaker_Rail_Bracket_v1.step
+speaker-mount,Gladiator_Speaker_Rail_Bracket_v1.stl,stl,Selected bracket revision,hardware/cad/speaker-mount/Gladiator_Speaker_Rail_Bracket_v1.stl
+motor-driver-mounts,DriverMount_v5.FCStd,fcstd,Selected interlocking mount revision,hardware/cad/motor-driver-mounts/DriverMount_v5.FCStd
+motor-driver-mounts,DriverMount_v5.step,step,Selected interlocking mount revision,hardware/cad/motor-driver-mounts/DriverMount_v5.step
+motor-driver-mounts,Base_Left.stl,stl,Selected interlocking mount revision,hardware/cad/motor-driver-mounts/stl/Base_Left.stl
+motor-driver-mounts,Wedge_Left.stl,stl,Selected interlocking mount revision,hardware/cad/motor-driver-mounts/stl/Wedge_Left.stl
+power-tray,PowerBoardTray_v5.FCStd,fcstd,Selected tray revision,hardware/cad/power-tray/PowerBoardTray_v5.FCStd
+power-tray,PowerBoardTray_v5.step,step,Selected tray revision,hardware/cad/power-tray/PowerBoardTray_v5.step
+power-tray,Gladiator_PowerTray_v5_BaseLeft_print-tab-down.stl,stl,Selected tray revision,hardware/cad/power-tray/stl/Gladiator_PowerTray_v5_BaseLeft_print-tab-down.stl
+power-tray,Gladiator_PowerTray_v5_BaseRight_print-tab-down.stl,stl,Selected tray revision,hardware/cad/power-tray/stl/Gladiator_PowerTray_v5_BaseRight_print-tab-down.stl
+power-tray,Gladiator_PowerTray_v5_FitCoupon_base-and-peg.stl,stl,Selected tray revision,hardware/cad/power-tray/stl/Gladiator_PowerTray_v5_FitCoupon_base-and-peg.stl
+power-tray,Gladiator_PowerTray_v5_print-on-rear-face.stl,stl,Selected tray revision,hardware/cad/power-tray/stl/Gladiator_PowerTray_v5_print-on-rear-face.stl
+power-tray,PowerBoardTray_v5_installed.stl,stl,Selected tray revision,hardware/cad/power-tray/stl/PowerBoardTray_v5_installed.stl
+mast-base,Gladiator_MastBase_spigot-3p5_chamfer-0p8_UP.stl,stl,Selected reprint revision,hardware/cad/mast-base/Gladiator_MastBase_spigot-3p5_chamfer-0p8_UP.stl
+mast-base,Gladiator_Master_MastBase_short-spigot.FCStd,fcstd,Selected reprint revision,hardware/cad/mast-base/Gladiator_Master_MastBase_short-spigot.FCStd
+mast-tube,Gladiator_MastTube_v2-Z130_print-vertical.stl,stl,Only the taller tube; other build2 parts superseded,hardware/cad/mast-tube/Gladiator_MastTube_v2-Z130_print-vertical.stl
+body-shell,Gladiator_Round5_Print.FCStd,fcstd,Mount-corrected 2.8 mm M2 derivative,hardware/cad/body-shell/Gladiator_Round5_Print.FCStd
+body-shell,Gladiator_Round5_PrintParts.step,step,Mount-corrected 2.8 mm M2 derivative,hardware/cad/body-shell/Gladiator_Round5_PrintParts.step
+body-shell,Aquila_Relief.stl,stl,Mount-corrected 2.8 mm M2 derivative,hardware/cad/body-shell/stl/Aquila_Relief.stl
+body-shell,Crest_Clamp.stl,stl,Mount-corrected 2.8 mm M2 derivative,hardware/cad/body-shell/stl/Crest_Clamp.stl
+body-shell,Crest_Clamp_Shoe.stl,stl,Mount-corrected 2.8 mm M2 derivative,hardware/cad/body-shell/stl/Crest_Clamp_Shoe.stl
+body-shell,Crest_Holder_Trim.stl,stl,Mount-corrected 2.8 mm M2 derivative,hardware/cad/body-shell/stl/Crest_Holder_Trim.stl
+body-shell,Front_Left.stl,stl,Mount-corrected 2.8 mm M2 derivative,hardware/cad/body-shell/stl/Front_Left.stl
+body-shell,Front_Right.stl,stl,Mount-corrected 2.8 mm M2 derivative,hardware/cad/body-shell/stl/Front_Right.stl
+body-shell,Galea_Crest.stl,stl,Mount-corrected 2.8 mm M2 derivative,hardware/cad/body-shell/stl/Galea_Crest.stl
+body-shell,Lens_Plate.stl,stl,Mount-corrected 2.8 mm M2 derivative,hardware/cad/body-shell/stl/Lens_Plate.stl
+body-shell,Neck_Clamp_0.stl,stl,Mount-corrected 2.8 mm M2 derivative,hardware/cad/body-shell/stl/Neck_Clamp_0.stl
+body-shell,Neck_Clamp_1.stl,stl,Mount-corrected 2.8 mm M2 derivative,hardware/cad/body-shell/stl/Neck_Clamp_1.stl
+body-shell,Neck_Clamp_Shoe_21_5.stl,stl,Mount-corrected 2.8 mm M2 derivative,hardware/cad/body-shell/stl/Neck_Clamp_Shoe_21_5.stl
+body-shell,Neck_Clamp_Shoe_57_5.stl,stl,Mount-corrected 2.8 mm M2 derivative,hardware/cad/body-shell/stl/Neck_Clamp_Shoe_57_5.stl
+body-shell,Neck_Guard.stl,stl,Mount-corrected 2.8 mm M2 derivative,hardware/cad/body-shell/stl/Neck_Guard.stl
+body-shell,Rear_Hood.stl,stl,Mount-corrected 2.8 mm M2 derivative,hardware/cad/body-shell/stl/Rear_Hood.stl
+body-shell,Scutum_Boss_L.stl,stl,Mount-corrected 2.8 mm M2 derivative,hardware/cad/body-shell/stl/Scutum_Boss_L.stl
+body-shell,Scutum_Boss_R.stl,stl,Mount-corrected 2.8 mm M2 derivative,hardware/cad/body-shell/stl/Scutum_Boss_R.stl
+body-shell,Scutum_Emblem_L.stl,stl,Mount-corrected 2.8 mm M2 derivative,hardware/cad/body-shell/stl/Scutum_Emblem_L.stl
+body-shell,Scutum_Emblem_R.stl,stl,Mount-corrected 2.8 mm M2 derivative,hardware/cad/body-shell/stl/Scutum_Emblem_R.stl
+body-shell,Scutum_Field_L.stl,stl,Mount-corrected 2.8 mm M2 derivative,hardware/cad/body-shell/stl/Scutum_Field_L.stl
+body-shell,Scutum_Field_R.stl,stl,Mount-corrected 2.8 mm M2 derivative,hardware/cad/body-shell/stl/Scutum_Field_R.stl
+body-shell,Tablet_L.stl,stl,Mount-corrected 2.8 mm M2 derivative,hardware/cad/body-shell/stl/Tablet_L.stl
+body-shell,Tablet_R.stl,stl,Mount-corrected 2.8 mm M2 derivative,hardware/cad/body-shell/stl/Tablet_R.stl
+shield-emblems,Emblem_Cradle.stl,stl,Stronger emblems and support cradle; supersedes shell emblem mesh,hardware/cad/shield-emblems/Emblem_Cradle.stl
+shield-emblems,emblem_old_right_v2_left.png,png,Stronger emblems and support cradle; supersedes shell emblem mesh,hardware/cad/shield-emblems/emblem_old_right_v2_left.png
+shield-emblems,Scutum_Emblem_v2.FCStd,fcstd,Stronger emblems and support cradle; supersedes shell emblem mesh,hardware/cad/shield-emblems/Scutum_Emblem_v2.FCStd
+shield-emblems,Scutum_Emblem_v2.stl,stl,Stronger emblems and support cradle; supersedes shell emblem mesh,hardware/cad/shield-emblems/Scutum_Emblem_v2.stl
+insert-fit-coupon,M2_D3_L3_Coupon.FCStd,fcstd,2.8 mm bore accepted in source notes,hardware/cad/insert-fit-coupon/M2_D3_L3_Coupon.FCStd
+insert-fit-coupon,M2_D3_L3_Coupon.step,step,2.8 mm bore accepted in source notes,hardware/cad/insert-fit-coupon/M2_D3_L3_Coupon.step
+insert-fit-coupon,M2_D3_L3_Coupon.stl,stl,2.8 mm bore accepted in source notes,hardware/cad/insert-fit-coupon/M2_D3_L3_Coupon.stl
