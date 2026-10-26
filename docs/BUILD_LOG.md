@@ -1,6 +1,6 @@
 # Build log
 
-[Project home](../README.md) · [Photo albums](../photos/README.md)
+[Project home](../README.md) Â· [Photo albums](../photos/README.md)
 
 ## Chassis v1
 
@@ -19,12 +19,6 @@
 <!-- WRITE: Your build notes. -->
 
 [Photos](../photos/03-robot-v1/README.md)
-
-## Enclosure details
-
-<!-- WRITE: Your build notes. -->
-
-[Photos](../photos/04-enclosure-details/README.md)
 
 ## Robot v2
 

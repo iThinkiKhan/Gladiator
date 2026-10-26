@@ -1,7 +1,7 @@
 # Writing your project
 
-- [Main README](../README.md): introduction, features, status, credits and licensing.
-- [Project story](PROJECT.md): motivation, explanation, lessons and plans.
+- [Main README](../README.md): review the opening and status in your words; add features, credits and licensing.
+- [Project story](PROJECT.md): your origin story, power board, body redesign and next steps; refine or extend it as we go.
 - [Build log](BUILD_LOG.md): your notes beside each linked photo album.
 - [Hardware](../hardware/README.md): assembly and printing guidance.
 - [Bill of materials](../hardware/BOM.csv): fill quantities, specifications and notes.
