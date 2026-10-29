@@ -26,13 +26,27 @@ That took several redesigns. I eventually ended up with fairly slim, arched rail
 
 Despite how different V2 looks, the rails and deck are its primary change. The other huge improvement is accessibility for repairs, and that will continue into V3.
 
+## The tracks and masthead
+
+The motors get their power directly from the battery pack. It operates much like a tank, with one 12V motor on each track. The tracks give it tremendous all-terrain capability, and the motors have enough torque to really crank the bot forward.
+
+The masthead has pan and tilt. The pan mechanism uses a belt and pulley to achieve a real 180-degree flip to present the display face.
+
+The motor drivers are the main way of getting heat out. Their mounts were designed to look cool, take up minimal room without expanding the bot's footprint, vent heat well, and provide easy access to the electronics. Most of the redesigns have been about access for tools and maintenance. The primary design has remained largely the same.
+
+## The networking
+
+The networking is largely overbuilt. Multiple processors work in concert, with the S3 on the back as the primary coordinator. The C6 next to it does networking, and the camera board controls the display in the mast.
+
 ## Where it is now
 
-All of its features are working now, although the Dupont connections still cause some reliability issues.
+All of its current features are working, although the Dupont connections still cause some reliability issues.
 
 ## What's next
 
-The next major system upgrade will be the mast. Now that I have it working, I know how I want to improve it next.
+V2 of the mast is coming next, with better balance, mobility, and access for wire routing. Now that I have it working, I know how I want to improve it next.
+
+Autonomous features are next on the software side. I want to make it into something like a Roomba, mapping and moving around independently.
 
 ### Masthead revisions v1
 

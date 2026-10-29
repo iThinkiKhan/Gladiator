@@ -1,8 +1,10 @@
 # Firmware
 
-<!-- WRITE: Your software overview. -->
+The networking is largely overbuilt: multiple processors working in concert. The ESP32-S3 on the back is the primary coordinator. The ESP32-C6 next to it handles networking, and the ESP32-CAM board controls the camera and the display in the mast.
 
-[Project](../README.md) Â· [S3 controller](src) Â· [C6 gateway](gateway) Â· [Camera and display](cam) Â· [Shared protocol](shared) Â· [Operator interface](tools/booth)
+All of the current features are working, although the Dupont connections still cause some reliability issues. Autonomous features are next. I want the bot to become something like a Roomba, mapping and moving around independently.
+
+[Project](../README.md) · [S3 controller](src) · [C6 gateway](gateway) · [Camera and display](cam) · [Shared protocol](shared) · [Operator interface](tools/booth)
 
 ## Build reference
 

@@ -1,6 +1,10 @@
 # Hardware & CAD
 
-<!-- WRITE: Your hardware overview. -->
+Gladiator operates much like a tank: one 12V motor on each track, powered from the battery pack. The tracks give it tremendous all-terrain capability, and the motors have enough torque to really crank the bot forward.
+
+The masthead has pan and tilt. The pan mechanism uses a belt and pulley to get a real 180-degree flip so it can present the display face.
+
+The motor drivers are the main way of getting heat out. Their mounts were designed to look cool, take up minimal room without expanding the bot's footprint, vent heat well, and provide easy access to the electronics. Most of the redesigns have been about access for tools and maintenance. The primary design has remained largely the same.
 
 [Project](../README.md) · [CAD file catalog](cad/catalog.csv) · [Bill of materials](BOM.csv)
 
